@@ -452,9 +452,9 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - [Toolflows for Mapping Convolutional Neural Networks on FPGAs: A Survey and Future Directions.](https://arxiv.org/abs/1803.05900) (Imperial College London)
 
 ------------
-------------
 
-_Author_
+
+_**Author**_
 
 Gopala KR /@gopala-kr
 
