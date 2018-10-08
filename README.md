@@ -12,6 +12,8 @@
         - Linux Foundation’s launch of the Acumos AI Project, which defines APIs, an open-source framework, and an AI model catalog for framework-agnostic AI app development, chaining and deployment over Kubernetes.
 
 
+        More details on [DL compilers]([deep learning compiler Optimization for different hardwares](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/12-ai-hardware-compilers))
+
 ------------------
 
 
@@ -26,10 +28,6 @@
 - [Demystifying Deep Learning Frameworks and Libraries(end to end low+high level)](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/14-demystifying-dl-frameworks-and-libraries)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
-- [Tutorial on Hardware Architectures for Deep Neural Networks.](http://eyeriss.mit.edu/tutorial.html) (MIT)
-- [A Survey of Neuromorphic Computing and Neural Networks in Hardware.](https://arxiv.org/abs/1705.06963) (Oak Ridge National Lab)
-- [A Survey of FPGA Based Neural Network Accelerator.](https://arxiv.org/abs/1712.08934) (Tsinghua)
-- [Toolflows for Mapping Convolutional Neural Networks on FPGAs: A Survey and Future Directions.](https://arxiv.org/abs/1803.05900) (Imperial College London)
 
 ------------
 
