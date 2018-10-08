@@ -12,7 +12,7 @@
         - Linux Foundation’s launch of the Acumos AI Project, which defines APIs, an open-source framework, and an AI model catalog for framework-agnostic AI app development, chaining and deployment over Kubernetes.
 
 
-        More details on [DL compilers]([deep learning compiler Optimization for different hardwares](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/12-ai-hardware-compilers))
+        More details on [DL compilers](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/12-ai-hardware-compilers)
 
 ------------------
 
