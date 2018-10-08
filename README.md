@@ -9,8 +9,6 @@
 - [Review Papers](https://github.com/gopala-kr/DL-on-Silicon/blob/master/review_papers.md)
 
 
--------------
-
 ##### References
 
 - [AI-accelerators(CPU, GPU, FPGA, ASIC, SoC, HPC), Neuromorphic and Quantum Compute for AI](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/01-ai-accelerators)
