@@ -21,7 +21,7 @@
          - Research on each computing platform and their optimization/synthesis from high level to low level machine code(active research area)
          - To find out how the existing platforms differ from each other and their offerings
          - To bring out the best in all frameworks, which helps in creating single open platform/standard.
-         - To initiate a single cross-compilation open platform which simplifies integration of future frontend and backend technologies.
+         - To initiate a single cross-compilation open platform which simplifies integration of future frontend and backend environments.
          - To publish a papers on this research
          
 ------------------
