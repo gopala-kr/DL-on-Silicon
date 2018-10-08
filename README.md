@@ -6,7 +6,7 @@
 ------------------
 
 
-
+- [Review Papers](https://github.com/gopala-kr/DL-on-Silicon/edit/master/review_papers.md)
 
 
 -------------
