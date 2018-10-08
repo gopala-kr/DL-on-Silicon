@@ -11,6 +11,163 @@
 
 ----------
 
+##### 2018 ASPDAC
+- **ReGAN: A Pipelined ReRAM-Based Accelerator for Generative Adversarial Networks.** (University of Pittsburgh, Duke)
+- **Accelerator-centric Deep Learning Systems for Enhanced Scalability, Energy-efficiency, and Programmability.** (POSTECH)
+- **Architectures and Algorithms for User Customization of CNNs.** (Seoul National University, Samsung)
+- **Optimizing FPGA-based Convolutional Neural Networks Accelerator for Image Super-Resolution.** (Sogang University)
+- **Running sparse and low-precision neural network: when algorithm meets hardware.** (Duke)
+
+##### 2018 ISSCC
+- **A 55nm Time-Domain Mixed-Signal Neuromorphic Accelerator with Stochastic Synapses and Embedded Reinforcement Learning for Autonomous Micro-Robots.** (Georgia Tech)
+- **A Shift Towards Edge Machine-Learning Processing.** (Google)
+- **QUEST: A 7.49TOPS Multi-Purpose Log-Quantized DNN Inference Engine Stacked on 96MB 3D SRAM Using Inductive-Coupling Technology in 40nm CMOS.** (Hokkaido University, Ultra Memory, Keio University)
+- **UNPU: A 50.6TOPS/W Unified Deep Neural Network Accelerator with 1b-to-16b Fully-Variable Weight Bit-Precision.** (KAIST)
+- **A 9.02mW CNN-Stereo-Based Real-Time 3D Hand-Gesture Recognition Processor for Smart Mobile Devices.** (KAIST)
+- **An Always-On 3.8μJ/86% CIFAR-10 Mixed-Signal Binary CNN Processor with All Memory on Chip in 28nm CMOS.** (Stanford, KU Leuven)
+- **Conv-RAM: An Energy-Efficient SRAM with Embedded Convolution Computation for Low-Power CNN-Based Machine Learning Applications.** (MIT)
+- **A 42pJ/Decision 3.12TOPS/W Robust In-Memory Machine Learning Classifier with On-Chip Training.** (UIUC)
+- **Brain-Inspired Computing Exploiting Carbon Nanotube FETs and Resistive RAM: Hyperdimensional Computing Case Study.** (Stanford, UC Berkeley, MIT)
+- **A 65nm 1Mb Nonvolatile Computing-in-Memory ReRAM Macro with Sub-16ns Multiply-and-Accumulate for Binary DNN AI Edge Processors.** (NTHU)
+- **A 65nm 4Kb Algorithm-Dependent Computing-in-Memory SRAM Unit Macro with 2.3ns and 55.8TOPS/W Fully Parallel Product-Sum Operation for Binary DNN Edge Processors.** (NTHU, TSMC, UESTC, ASU)
+- **A 1μW Voice Activity Detector Using Analog Feature Extraction and Digital Deep Neural Network.** (Columbia University)
+
+##### 2018 HPCA
+- **Making Memristive Neural Network Accelerators Reliable.** (University of Rochester)
+- **Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.** (University of Florida)
+- **Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks.** (POSTECH, NVIDIA, UT-Austin)
+- **In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems.** (University of Florida, Chongqing University, Capital Normal University)
+
+##### 2018 ASPLOS
+- **Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.** (Tsinghua, UCSB)
+- **MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.** (Georgia Tech)
+  - *Higher PE utilization: Use an augmented reduction tree (reconfigurable interconnects) to construct arbitrary sized virtual neurons.*
+- **VIBNN: Hardware Acceleration of Bayesian Neural Networks.** (Syracuse University, USC)
+- Exploiting Dynamical Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications. (Guizhou University, University of Florida)
+- Potluck: Cross-application Approximate Deduplication for Computation-Intensive Mobile Applications. (Yale)
+
+##### 2018 VLSI
+- **STICKER: A 0.41‐62.1 TOPS/W 8bit Neural Network Processor with Multi‐Sparsity Compatible Convolution Arrays and Online Tuning Acceleration for Fully Connected Layers.** (THU)
+- **2.9TOPS/W Reconfigurable Dense/Sparse Matrix‐Multiply Accelerator with Unified INT8/INT16/FP16 Datapath in 14nm Tri‐gate CMOS.** (Intel)
+- **A Scalable Multi‐TeraOPS Deep Learning Processor Core for AI Training and Inference.** (IBM)
+- **An Ultra‐high Energy‐efficient reconfigurable Processor for Deep Neural Networks with Binary/Ternary Weights in 28nm CMOS.** (THU)
+- **B‐Face: 0.2 mW CNN‐Based Face Recognition Processor with Face Alignment for Mobile User Identification.** (KAIST)
+- **A 141 uW, 2.46 pJ/Neuron Binarized Convolutional Neural Network based Self-learning Speech Recognition Processor in 28nm CMOS.** (THU)
+- **A Mixed‐Signal Binarized Convolutional‐Neural-Network Accelerator Integrating Dense Weight Storage and Multiplication for Reduced Data Movement.** (Princeton)
+- **PhaseMAC: A 14 TOPS/W 8bit GRO based Phase Domain MAC Circuit for In‐Sensor‐Computed Deep Learning Accelerators.** (Toshiba)
+
+##### 2018 FPGA
+- **C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.** (Peking Univ, Syracuse Univ, CUNY)
+- **DeltaRNN: A Power-efficient Recurrent Neural Network Accelerator.** (ETHZ, BenevolentAI)
+- **Towards a Uniform Template-based Architecture for Accelerating 2D and 3D CNNs on FPGA.** (National Univ of Defense Tech)
+- **A Customizable Matrix Multiplication Framework for the Intel HARPv2 Xeon+FPGA Platform - A Deep Learning Case Study.** (The Univ of Sydney, Intel)
+- **A Framework for Generating High Throughput CNN Implementations on FPGAs.** (USC)
+- Liquid Silicon: A Data-Centric Reconfigurable Architecture enabled by RRAM Technology. (UW Madison)
+
+##### 2018 ISCA
+- **RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM.** (THU)
+- **Brainwave: A Configurable Cloud-Scale DNN Processor for Real-Time AI.** (Microsoft)
+- **PROMISE: An End-to-End Design of a Programmable Mixed-Signal Accelerator for Machine Learning Algorithms.** (UIUC)
+- **Computation Reuse in DNNs by Exploiting Input Similarity.** (UPC)
+- **GANAX: A Unified SIMD-MIMD Acceleration for Generative Adversarial Network.** (Georiga Tech, IPM, Qualcomm, UCSD, UIUC)
+- **SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.** (UCSD, Georgia Tech, Qualcomm)
+- **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition.** (UIUC, NVIDIA)
+- **An Energy-Efficient Neural Network Accelerator based on Outlier-Aware Low Precision Computation.** (Seoul National)
+- **Prediction based Execution on Deep Neural Networks.** (Florida)
+- **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks.** (Georgia Tech, ARM, UCSD)
+- **Gist: Efficient Data Encoding for Deep Neural Network Training.** (Michigan, Microsoft, Toronto)
+- **The Dark Side of DNN Pruning.** (UPC)
+- **Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks.** (Michigan)
+- EVA^2: Exploiting Temporal Redundancy in Live Computer Vision. (Cornell)
+- Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision. (Rochester, Georgia Tech, ARM)
+- Feature-Driven and Spatially Folded Digital Neurons for Efficient Spiking Neural Network Simulations. (POSTECH/Berkeley, Seoul National)
+- Space-Time Algebra: A Model for Neocortical Computation. (Wisconsin)
+- Scaling Datacenter Accelerators With Compute-Reuse Architectures. (Princeton)
+   - *Add a NVM-based storage layer to the accelerator, for computation reuse.*
+- Enabling Scientific Computing on Memristive Accelerators. (Rochester)
+
+##### 2018 DATE
+- **MATIC: Learning Around Errors for Efficient Low-Voltage Neural Network Accelerators.** (University of Washington)
+   - *Learn around errors resulting from SRAM voltage scaling, demonstrated on a fabricated 65nm test chip.*
+- **Maximizing System Performance by Balancing Computation Loads in LSTM Accelerators.** (POSTECH)
+   - *Sparse matrix format that load balances computation, demonstrated for LSTMs.*
+- **CCR: A Concise Convolution Rule for Sparse Neural Network Accelerators.** (CAS)
+   - *Decompose convolution into multiple dense and zero kernels for sparsity savings.*
+- **Block Convolution: Towards Memory-Efficient Inference of Large-Scale CNNs on FPGA.** (CAS)
+- **moDNN: Memory Optimal DNN Training on GPUs.** (University of Notre Dame, CAS)
+- HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks. (CMU, Google)
+
+##### 2018 DAC
+- **Compensated-DNN: Energy Efficient Low-Precision Deep Neural Networks by Compensating Quantization Errors.** (**Best Paper**, Purdue, IBM)
+  - *Introduce a new fixed-point representation, Fixed Point with Error Compensation (FPEC): Computation bits, +compensation bits that represent quantization error.*
+  - *Propose a low-overhead sparse compensation scheme to estimate the error in MAC design.*
+- **Calibrating Process Variation at System Level with In-Situ Low-Precision Transfer Learning for Analog Neural Network Processors.** (THU)
+- **DPS: Dynamic Precision Scaling for Stochastic Computing-Based Deep Neural Networks.** (UNIST)
+- **DyHard-DNN: Even More DNN Acceleration With Dynamic Hardware Reconfiguration.** (Univ. of Virginia)
+- **Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization.** (Univ. of Washington)
+- **LCP: Layer Clusters Paralleling Mapping Mechanism for Accelerating Inception and Residual Networks on FPGA.** (THU)
+- **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (THU)
+- **Ares: A Framework for Quantifying the Resilience of Deep Neural Networks.** (Harvard)
+- **ThUnderVolt: Enabling Aggressive Voltage Underscaling and Timing Error Resilience for Energy Efficient
+Deep Learning Accelerators** (New York Univ., IIT Kanpur)
+- **Loom: Exploiting Weight and Activation Precisions to Accelerate Convolutional Neural Networks.** (Univ. of Toronto)
+- **Parallelizing SRAM Arrays with Customized Bit-Cell for Binary Neural Networks.** (Arizona)
+- **Thermal-Aware Optimizations of ReRAM-Based Neuromorphic Computing Systems.** (Northwestern Univ.)
+- **SNrram: An Efficient Sparse Neural Network Computation Architecture Based on Resistive RandomAccess Memory.** (THU, UCSB)
+- **Long Live TIME: Improving Lifetime for Training-In-Memory Engines by Structured Gradient Sparsification.** (THU, CAS, MIT)
+- **Bandwidth-Efficient Deep Learning.** (MIT, Stanford)
+- **Co-Design of Deep Neural Nets and Neural Net Accelerators for Embedded Vision Applications.** (Berkeley)
+- **Sign-Magnitude SC: Getting 10X Accuracy for Free in Stochastic Computing for Deep Neural Networks.** (UNIST)
+- **DrAcc: A DRAM Based Accelerator for Accurate CNN Inference.** (National Univ. of Defense Technology, Indiana Univ., Univ. of Pittsburgh)
+- **On-Chip Deep Neural Network Storage With Multi-Level eNVM.** (Harvard)
+- VRL-DRAM: Improving DRAM Performance via Variable Refresh Latency. (Drexel Univ. ETHZ)
+
+##### 2018 HotChips
+- **ARM's First Generation ML Processor.** (ARM)
+- **The NVIDIA Deep Learning Accelerator.** (NVIDIA)
+- **Xilinx Tensor Processor: An Inference Engine, Network Compiler + Runtime for Xilinx FPGAs.** (Xilinx)
+- Tachyum Cloud Chip for Hyperscale workloads, deep ML, general, symbolic and bio AI. (Tachyum)
+- SMIV: A 16nm SoC with Efficient and Flexible DNN Acceleration for Intelligent IoT Devices. (ARM)
+- NVIDIA's Xavier System-on-Chip. (NVIDIA)
+- Xilinx Project Everest: HW/SW Programmable Engine. (Xilinx)
+
+##### 2018 ICCAD
+- **Tetris: Re-architecting Convolutional Neural Network Computation for Machine Learning Accelerators.** (CAS)
+- **3DICT: A Reliable and QoS Capable Mobile Process-In-Memory Architecture for Lookup-based CNNs in 3D XPoint ReRAMs.** (Indiana - - University Bloomington, Florida International Univ.)
+- **TGPA: Tile-Grained Pipeline Architecture for Low Latency CNN Inference.** (PKU, UCLA, Falcon)
+- **NID: Processing Binary Convolutional Neural Network in Commodity DRAM.** (KAIST)
+- **Adaptive-Precision Framework for SGD using Deep Q-Learning.** (PKU)
+- **Efficient Hardware Acceleration of CNNs using Logarithmic Data Representation with Arbitrary log-base.** (Robert Bosch GmbH)
+- **C-GOOD: C-code Generation Framework for Optimized On-device Deep Learning.** (SNU)
+- **Mixed Size Crossbar based RRAM CNN Accelerator with Overlapped Mapping Method.** (THU)
+- **FCN-Engine: Accelerating Deconvolutional Layers in Classic CNN Processors.** (HUT, CAS, NUS)
+- **DNNBuilder: an Automated Tool for Building High-Performance DNN Hardware Accelerators for FPGAs.** (UIUC)
+- **DIMA: A Depthwise CNN In-Memory Accelerator.** (Univ. of Central Florida)
+- **EMAT: An Efficient Multi-Task Architecture for Transfer Learning using ReRAM.** (Duke)
+- **FATE: Fast and Accurate Timing Error Prediction Framework for Low Power DNN Accelerator Design.** (NYU)
+- **Designing Adaptive Neural Networks for Energy-Constrained Image Classification.** (CMU)
+- Watermarking Deep Neural Networks for Embedded Systems. (UCLA)
+- Defensive Dropout for Hardening Deep Neural Networks under Adversarial Attacks. (Northeastern Univ., Boston Univ., Florida International Univ.)
+- A Cross-Layer Methodology for Design and Optimization of Networks in 2.5D Systems. (Boston Univ., UCSD)
+
+##### 2018 MICRO
+- **Addressing Irregularity in Sparse Neural Networks:A Cooperative Software/Hardware Approach.** (USTC, CAS)
+- **Diffy: a Deja vu-Free Differential Deep Neural Network Accelerator.** (University of Toronto)
+- **Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning.** (KAIST)
+- **Towards Memory Friendly Long-Short Term Memory Networks (LSTMs) on Mobile GPUs.** (University of Houston, Capital Normal University)
+- **A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks.** (UIUC, THU, SJTU, Intel, UCSD)
+- **PermDNN: Efficient Compressed Deep Neural Network Architecture with Permuted Diagonal Matrices.** (City University of New York, University of Minnesota, USC)
+- **GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware.** (Georgia Tech)
+- **Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach.** (UCM, UCSD, UCSC)
+- **LerGAN: A Zero-free, Low Data Movement and PIM-based GAN Architecture.** (THU, University of Florida)
+- **Multi-dimensional Parallel Training of Winograd Layer through Distributed Near-Data Processing.** (KAIST)
+- **SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator.** (UCSB, Samsung)
+- **Morph: Flexible Acceleration for 3D CNN-based Video Understanding.** (UIUC)
+- Inter-thread Communication in Multithreaded, Reconfigurable Coarse-grain Arrays. (Technion)
+- An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware. (Cornell)
+
+-------------
+
 ##### 2014 ASPLOS
 - **DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.** (CAS, Inria)
 
@@ -277,161 +434,6 @@
 - DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission. (Univ. of Michigan, Univ. of Nevada)
 - Data Movement Aware Computation Partitioning. (PSU, TOBB University of Economics and Technology)
   - *Partition computation on a manycore system for near data processing.*
-
-##### 2018 ASPDAC
-- **ReGAN: A Pipelined ReRAM-Based Accelerator for Generative Adversarial Networks.** (University of Pittsburgh, Duke)
-- **Accelerator-centric Deep Learning Systems for Enhanced Scalability, Energy-efficiency, and Programmability.** (POSTECH)
-- **Architectures and Algorithms for User Customization of CNNs.** (Seoul National University, Samsung)
-- **Optimizing FPGA-based Convolutional Neural Networks Accelerator for Image Super-Resolution.** (Sogang University)
-- **Running sparse and low-precision neural network: when algorithm meets hardware.** (Duke)
-
-##### 2018 ISSCC
-- **A 55nm Time-Domain Mixed-Signal Neuromorphic Accelerator with Stochastic Synapses and Embedded Reinforcement Learning for Autonomous Micro-Robots.** (Georgia Tech)
-- **A Shift Towards Edge Machine-Learning Processing.** (Google)
-- **QUEST: A 7.49TOPS Multi-Purpose Log-Quantized DNN Inference Engine Stacked on 96MB 3D SRAM Using Inductive-Coupling Technology in 40nm CMOS.** (Hokkaido University, Ultra Memory, Keio University)
-- **UNPU: A 50.6TOPS/W Unified Deep Neural Network Accelerator with 1b-to-16b Fully-Variable Weight Bit-Precision.** (KAIST)
-- **A 9.02mW CNN-Stereo-Based Real-Time 3D Hand-Gesture Recognition Processor for Smart Mobile Devices.** (KAIST)
-- **An Always-On 3.8μJ/86% CIFAR-10 Mixed-Signal Binary CNN Processor with All Memory on Chip in 28nm CMOS.** (Stanford, KU Leuven)
-- **Conv-RAM: An Energy-Efficient SRAM with Embedded Convolution Computation for Low-Power CNN-Based Machine Learning Applications.** (MIT)
-- **A 42pJ/Decision 3.12TOPS/W Robust In-Memory Machine Learning Classifier with On-Chip Training.** (UIUC)
-- **Brain-Inspired Computing Exploiting Carbon Nanotube FETs and Resistive RAM: Hyperdimensional Computing Case Study.** (Stanford, UC Berkeley, MIT)
-- **A 65nm 1Mb Nonvolatile Computing-in-Memory ReRAM Macro with Sub-16ns Multiply-and-Accumulate for Binary DNN AI Edge Processors.** (NTHU)
-- **A 65nm 4Kb Algorithm-Dependent Computing-in-Memory SRAM Unit Macro with 2.3ns and 55.8TOPS/W Fully Parallel Product-Sum Operation for Binary DNN Edge Processors.** (NTHU, TSMC, UESTC, ASU)
-- **A 1μW Voice Activity Detector Using Analog Feature Extraction and Digital Deep Neural Network.** (Columbia University)
-
-##### 2018 HPCA
-- **Making Memristive Neural Network Accelerators Reliable.** (University of Rochester)
-- **Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.** (University of Florida)
-- **Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks.** (POSTECH, NVIDIA, UT-Austin)
-- **In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems.** (University of Florida, Chongqing University, Capital Normal University)
-
-##### 2018 ASPLOS
-- **Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.** (Tsinghua, UCSB)
-- **MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.** (Georgia Tech)
-  - *Higher PE utilization: Use an augmented reduction tree (reconfigurable interconnects) to construct arbitrary sized virtual neurons.*
-- **VIBNN: Hardware Acceleration of Bayesian Neural Networks.** (Syracuse University, USC)
-- Exploiting Dynamical Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications. (Guizhou University, University of Florida)
-- Potluck: Cross-application Approximate Deduplication for Computation-Intensive Mobile Applications. (Yale)
-
-##### 2018 VLSI
-- **STICKER: A 0.41‐62.1 TOPS/W 8bit Neural Network Processor with Multi‐Sparsity Compatible Convolution Arrays and Online Tuning Acceleration for Fully Connected Layers.** (THU)
-- **2.9TOPS/W Reconfigurable Dense/Sparse Matrix‐Multiply Accelerator with Unified INT8/INT16/FP16 Datapath in 14nm Tri‐gate CMOS.** (Intel)
-- **A Scalable Multi‐TeraOPS Deep Learning Processor Core for AI Training and Inference.** (IBM)
-- **An Ultra‐high Energy‐efficient reconfigurable Processor for Deep Neural Networks with Binary/Ternary Weights in 28nm CMOS.** (THU)
-- **B‐Face: 0.2 mW CNN‐Based Face Recognition Processor with Face Alignment for Mobile User Identification.** (KAIST)
-- **A 141 uW, 2.46 pJ/Neuron Binarized Convolutional Neural Network based Self-learning Speech Recognition Processor in 28nm CMOS.** (THU)
-- **A Mixed‐Signal Binarized Convolutional‐Neural-Network Accelerator Integrating Dense Weight Storage and Multiplication for Reduced Data Movement.** (Princeton)
-- **PhaseMAC: A 14 TOPS/W 8bit GRO based Phase Domain MAC Circuit for In‐Sensor‐Computed Deep Learning Accelerators.** (Toshiba)
-
-##### 2018 FPGA
-- **C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.** (Peking Univ, Syracuse Univ, CUNY)
-- **DeltaRNN: A Power-efficient Recurrent Neural Network Accelerator.** (ETHZ, BenevolentAI)
-- **Towards a Uniform Template-based Architecture for Accelerating 2D and 3D CNNs on FPGA.** (National Univ of Defense Tech)
-- **A Customizable Matrix Multiplication Framework for the Intel HARPv2 Xeon+FPGA Platform - A Deep Learning Case Study.** (The Univ of Sydney, Intel)
-- **A Framework for Generating High Throughput CNN Implementations on FPGAs.** (USC)
-- Liquid Silicon: A Data-Centric Reconfigurable Architecture enabled by RRAM Technology. (UW Madison)
-
-##### 2018 ISCA
-- **RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM.** (THU)
-- **Brainwave: A Configurable Cloud-Scale DNN Processor for Real-Time AI.** (Microsoft)
-- **PROMISE: An End-to-End Design of a Programmable Mixed-Signal Accelerator for Machine Learning Algorithms.** (UIUC)
-- **Computation Reuse in DNNs by Exploiting Input Similarity.** (UPC)
-- **GANAX: A Unified SIMD-MIMD Acceleration for Generative Adversarial Network.** (Georiga Tech, IPM, Qualcomm, UCSD, UIUC)
-- **SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.** (UCSD, Georgia Tech, Qualcomm)
-- **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition.** (UIUC, NVIDIA)
-- **An Energy-Efficient Neural Network Accelerator based on Outlier-Aware Low Precision Computation.** (Seoul National)
-- **Prediction based Execution on Deep Neural Networks.** (Florida)
-- **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks.** (Georgia Tech, ARM, UCSD)
-- **Gist: Efficient Data Encoding for Deep Neural Network Training.** (Michigan, Microsoft, Toronto)
-- **The Dark Side of DNN Pruning.** (UPC)
-- **Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks.** (Michigan)
-- EVA^2: Exploiting Temporal Redundancy in Live Computer Vision. (Cornell)
-- Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision. (Rochester, Georgia Tech, ARM)
-- Feature-Driven and Spatially Folded Digital Neurons for Efficient Spiking Neural Network Simulations. (POSTECH/Berkeley, Seoul National)
-- Space-Time Algebra: A Model for Neocortical Computation. (Wisconsin)
-- Scaling Datacenter Accelerators With Compute-Reuse Architectures. (Princeton)
-   - *Add a NVM-based storage layer to the accelerator, for computation reuse.*
-- Enabling Scientific Computing on Memristive Accelerators. (Rochester)
-
-##### 2018 DATE
-- **MATIC: Learning Around Errors for Efficient Low-Voltage Neural Network Accelerators.** (University of Washington)
-   - *Learn around errors resulting from SRAM voltage scaling, demonstrated on a fabricated 65nm test chip.*
-- **Maximizing System Performance by Balancing Computation Loads in LSTM Accelerators.** (POSTECH)
-   - *Sparse matrix format that load balances computation, demonstrated for LSTMs.*
-- **CCR: A Concise Convolution Rule for Sparse Neural Network Accelerators.** (CAS)
-   - *Decompose convolution into multiple dense and zero kernels for sparsity savings.*
-- **Block Convolution: Towards Memory-Efficient Inference of Large-Scale CNNs on FPGA.** (CAS)
-- **moDNN: Memory Optimal DNN Training on GPUs.** (University of Notre Dame, CAS)
-- HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks. (CMU, Google)
-
-##### 2018 DAC
-- **Compensated-DNN: Energy Efficient Low-Precision Deep Neural Networks by Compensating Quantization Errors.** (**Best Paper**, Purdue, IBM)
-  - *Introduce a new fixed-point representation, Fixed Point with Error Compensation (FPEC): Computation bits, +compensation bits that represent quantization error.*
-  - *Propose a low-overhead sparse compensation scheme to estimate the error in MAC design.*
-- **Calibrating Process Variation at System Level with In-Situ Low-Precision Transfer Learning for Analog Neural Network Processors.** (THU)
-- **DPS: Dynamic Precision Scaling for Stochastic Computing-Based Deep Neural Networks.** (UNIST)
-- **DyHard-DNN: Even More DNN Acceleration With Dynamic Hardware Reconfiguration.** (Univ. of Virginia)
-- **Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization.** (Univ. of Washington)
-- **LCP: Layer Clusters Paralleling Mapping Mechanism for Accelerating Inception and Residual Networks on FPGA.** (THU)
-- **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (THU)
-- **Ares: A Framework for Quantifying the Resilience of Deep Neural Networks.** (Harvard)
-- **ThUnderVolt: Enabling Aggressive Voltage Underscaling and Timing Error Resilience for Energy Efficient
-Deep Learning Accelerators** (New York Univ., IIT Kanpur)
-- **Loom: Exploiting Weight and Activation Precisions to Accelerate Convolutional Neural Networks.** (Univ. of Toronto)
-- **Parallelizing SRAM Arrays with Customized Bit-Cell for Binary Neural Networks.** (Arizona)
-- **Thermal-Aware Optimizations of ReRAM-Based Neuromorphic Computing Systems.** (Northwestern Univ.)
-- **SNrram: An Efficient Sparse Neural Network Computation Architecture Based on Resistive RandomAccess Memory.** (THU, UCSB)
-- **Long Live TIME: Improving Lifetime for Training-In-Memory Engines by Structured Gradient Sparsification.** (THU, CAS, MIT)
-- **Bandwidth-Efficient Deep Learning.** (MIT, Stanford)
-- **Co-Design of Deep Neural Nets and Neural Net Accelerators for Embedded Vision Applications.** (Berkeley)
-- **Sign-Magnitude SC: Getting 10X Accuracy for Free in Stochastic Computing for Deep Neural Networks.** (UNIST)
-- **DrAcc: A DRAM Based Accelerator for Accurate CNN Inference.** (National Univ. of Defense Technology, Indiana Univ., Univ. of Pittsburgh)
-- **On-Chip Deep Neural Network Storage With Multi-Level eNVM.** (Harvard)
-- VRL-DRAM: Improving DRAM Performance via Variable Refresh Latency. (Drexel Univ. ETHZ)
-
-##### 2018 HotChips
-- **ARM's First Generation ML Processor.** (ARM)
-- **The NVIDIA Deep Learning Accelerator.** (NVIDIA)
-- **Xilinx Tensor Processor: An Inference Engine, Network Compiler + Runtime for Xilinx FPGAs.** (Xilinx)
-- Tachyum Cloud Chip for Hyperscale workloads, deep ML, general, symbolic and bio AI. (Tachyum)
-- SMIV: A 16nm SoC with Efficient and Flexible DNN Acceleration for Intelligent IoT Devices. (ARM)
-- NVIDIA's Xavier System-on-Chip. (NVIDIA)
-- Xilinx Project Everest: HW/SW Programmable Engine. (Xilinx)
-
-##### 2018 ICCAD
-- **Tetris: Re-architecting Convolutional Neural Network Computation for Machine Learning Accelerators.** (CAS)
-- **3DICT: A Reliable and QoS Capable Mobile Process-In-Memory Architecture for Lookup-based CNNs in 3D XPoint ReRAMs.** (Indiana - - University Bloomington, Florida International Univ.)
-- **TGPA: Tile-Grained Pipeline Architecture for Low Latency CNN Inference.** (PKU, UCLA, Falcon)
-- **NID: Processing Binary Convolutional Neural Network in Commodity DRAM.** (KAIST)
-- **Adaptive-Precision Framework for SGD using Deep Q-Learning.** (PKU)
-- **Efficient Hardware Acceleration of CNNs using Logarithmic Data Representation with Arbitrary log-base.** (Robert Bosch GmbH)
-- **C-GOOD: C-code Generation Framework for Optimized On-device Deep Learning.** (SNU)
-- **Mixed Size Crossbar based RRAM CNN Accelerator with Overlapped Mapping Method.** (THU)
-- **FCN-Engine: Accelerating Deconvolutional Layers in Classic CNN Processors.** (HUT, CAS, NUS)
-- **DNNBuilder: an Automated Tool for Building High-Performance DNN Hardware Accelerators for FPGAs.** (UIUC)
-- **DIMA: A Depthwise CNN In-Memory Accelerator.** (Univ. of Central Florida)
-- **EMAT: An Efficient Multi-Task Architecture for Transfer Learning using ReRAM.** (Duke)
-- **FATE: Fast and Accurate Timing Error Prediction Framework for Low Power DNN Accelerator Design.** (NYU)
-- **Designing Adaptive Neural Networks for Energy-Constrained Image Classification.** (CMU)
-- Watermarking Deep Neural Networks for Embedded Systems. (UCLA)
-- Defensive Dropout for Hardening Deep Neural Networks under Adversarial Attacks. (Northeastern Univ., Boston Univ., Florida International Univ.)
-- A Cross-Layer Methodology for Design and Optimization of Networks in 2.5D Systems. (Boston Univ., UCSD)
-
-##### 2018 MICRO
-- **Addressing Irregularity in Sparse Neural Networks:A Cooperative Software/Hardware Approach.** (USTC, CAS)
-- **Diffy: a Deja vu-Free Differential Deep Neural Network Accelerator.** (University of Toronto)
-- **Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning.** (KAIST)
-- **Towards Memory Friendly Long-Short Term Memory Networks (LSTMs) on Mobile GPUs.** (University of Houston, Capital Normal University)
-- **A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks.** (UIUC, THU, SJTU, Intel, UCSD)
-- **PermDNN: Efficient Compressed Deep Neural Network Architecture with Permuted Diagonal Matrices.** (City University of New York, University of Minnesota, USC)
-- **GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware.** (Georgia Tech)
-- **Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach.** (UCM, UCSD, UCSC)
-- **LerGAN: A Zero-free, Low Data Movement and PIM-based GAN Architecture.** (THU, University of Florida)
-- **Multi-dimensional Parallel Training of Winograd Layer through Distributed Near-Data Processing.** (KAIST)
-- **SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator.** (UCSB, Samsung)
-- **Morph: Flexible Acceleration for 3D CNN-based Video Understanding.** (UIUC)
-- Inter-thread Communication in Multithreaded, Reconfigurable Coarse-grain Arrays. (Technion)
-- An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware. (Cornell)
 
 
 -------------
