@@ -18,7 +18,7 @@
       The aim of this project is to do the fundamental research and experimentation on
          - Existing/emerging ML/DL compiler optimization technologies 
          - Different hardwares/computing platforms which can accelerate ML/DL model training and inference(active research area)
-         - Research on each computing platform and their optimization/synthesis from high level to low level machine code(active research area)
+         - Research on each computing platform and code optimization/synthesis from high level to low level machine code(active research area)
          - To find out how the existing platforms differ from each other and their offerings
          - To bring out the best in all frameworks, which helps in creating single open platform/standard.
          - To initiate a single cross-compilation open platform which simplifies integration of future frontend and backend environments.
