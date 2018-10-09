@@ -39,6 +39,7 @@
 - [Demystifying Deep Learning Frameworks and Libraries(end to end low+high level)](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/14-demystifying-dl-frameworks-and-libraries)
 - [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
+- [MyCaffe: A Complete C# Re-Write of Caffe with Reinforcement Learning](https://arxiv.org/ftp/arxiv/papers/1810/1810.02272.pdf)
 
 ------------
 
