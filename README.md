@@ -41,6 +41,7 @@
 - [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
 - [MyCaffe: A Complete C# Re-Write of Caffe with Reinforcement Learning](https://arxiv.org/ftp/arxiv/papers/1810/1810.02272.pdf)
 - [Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions](https://arxiv.org/abs/1802.04730)
+- [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
 
 ------------
 
