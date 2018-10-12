@@ -20,3 +20,8 @@ Halide
 
 
 [OpenCL on Mobile Devices](http://arrayfire.com/opencl-on-mobile-devices/)
+
+[OpenCL Resources](https://www.khronos.org/opencl/resources)
+
+[CUDA GPUs](https://www.geforce.com/hardware/technology/cuda/supported-gpus)
+
