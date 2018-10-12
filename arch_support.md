@@ -12,4 +12,8 @@ Halide
 - GPU Compute APIs: CUDA, OpenCL, OpenGL, OpenGL Compute Shaders, Apple Metal, Microsoft Direct X 12
 
 
-- [Intel mpi-library](https://software.intel.com/en-us/mpi-library)
+
+[Intel mpi-library](https://software.intel.com/en-us/mpi-library)
+
+
+[opencl devices](https://www.khronos.org/conformance/adopters/conformant-products/opencl)
