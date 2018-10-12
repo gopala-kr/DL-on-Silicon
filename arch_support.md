@@ -10,3 +10,6 @@ Halide
 - CPU architectures: X86, ARM, MIPS, Hexagon, PowerPC
 - Operating systems: Linux, Windows, Mac OS X, Android, iOS, Qualcomm QuRT
 - GPU Compute APIs: CUDA, OpenCL, OpenGL, OpenGL Compute Shaders, Apple Metal, Microsoft Direct X 12
+
+
+- [Intel mpi-library](https://software.intel.com/en-us/mpi-library)
