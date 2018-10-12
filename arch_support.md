@@ -17,3 +17,6 @@ Halide
 
 
 [opencl devices](https://www.khronos.org/conformance/adopters/conformant-products/opencl)
+
+
+[OpenCL on Mobile Devices](http://arrayfire.com/opencl-on-mobile-devices/)
