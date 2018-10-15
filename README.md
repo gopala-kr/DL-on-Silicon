@@ -44,7 +44,8 @@
 - [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
 - [Toolflows for Mapping Convolutional Neural Networks on FPGAs:
 A Survey and Future Directions](https://arxiv.org/pdf/1803.05900v1.pdf)
-
+- [The implementation of a Deep Recurrent Neural
+Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710/1710.10296.pdf)
 
 ------------
 
