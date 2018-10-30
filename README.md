@@ -47,6 +47,9 @@ A Survey and Future Directions](https://arxiv.org/pdf/1803.05900v1.pdf)
 - [The implementation of a Deep Recurrent Neural
 Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710/1710.10296.pdf)
 - [Automatic Full Compilation of Julia Programs and ML Models to Cloud TPUs](https://arxiv.org/pdf/1810.09868v1.pdf)
+- [Facebook: Hardware & Software Systems research awards](https://research.fb.com/announcing-the-winners-of-the-facebook-hardware-software-systems-research-awards/)
+
+
 ------------
 
 
