@@ -50,6 +50,8 @@ Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710
 - [Facebook: Hardware & Software Systems research](https://research.fb.com/announcing-the-winners-of-the-facebook-hardware-software-systems-research-awards/)
 - [Intel AI: high-throughput-object-detection-on-edge-platforms-with-fpga](https://ai.intel.com/high-throughput-object-detection-on-edge-platforms-with-fpga/)
 - [Intel AI: adaptable-deep-learning-solutions-with-ngraph-compiler-and-onnx](https://ai.intel.com/adaptable-deep-learning-solutions-with-ngraph-compiler-and-onnx/)
+- [Intel AI: intel-fpgas-powering-real-time-ai-inferencing](https://ai.intel.com/intel-fpgas-powering-real-time-ai-inferencing/)
+- [Intel AI: heterogenous-computing-ai-hardware-designed-for-specific-tasks ](https://ai.intel.com/heterogenous-computing-ai-hardware-designed-for-specific-tasks/)
 
 ------------
 
