@@ -49,6 +49,7 @@ Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710
 - [Automatic Full Compilation of Julia Programs and ML Models to Cloud TPUs](https://arxiv.org/pdf/1810.09868v1.pdf)
 - [Facebook: Hardware & Software Systems research](https://research.fb.com/announcing-the-winners-of-the-facebook-hardware-software-systems-research-awards/)
 - [Intel AI: high-throughput-object-detection-on-edge-platforms-with-fpga](https://ai.intel.com/high-throughput-object-detection-on-edge-platforms-with-fpga/)
+- [Intel AI: adaptable-deep-learning-solutions-with-ngraph-compiler-and-onnx](https://ai.intel.com/adaptable-deep-learning-solutions-with-ngraph-compiler-and-onnx/)
 
 ------------
 
