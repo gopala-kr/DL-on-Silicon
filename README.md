@@ -55,6 +55,7 @@ Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710
 - [Intel AI Academy: Framework Optimization Training](https://software.intel.com/en-us/ai-academy/frameworks)
 - [Intel® Optimization for TensorFlow*](https://software.intel.com/en-us/videos/introduction-to-intel-optimization-for-tensorflow)
 - [Intel AI Docs](https://ai.intel.com/docs/)
+- [CUDA](https://github.com/Erkaman/Awesome-CUDA)
 - [IBM AI: Hardware and the Physics of AI](https://www.research.ibm.com/artificial-intelligence/physics-of-ai/)
 
 ------------
