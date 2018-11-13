@@ -57,6 +57,7 @@ Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710
 - [Intel AI Docs](https://ai.intel.com/docs/)
 - [CUDA](https://github.com/Erkaman/Awesome-CUDA)
 - [IBM AI: Hardware and the Physics of AI](https://www.research.ibm.com/artificial-intelligence/physics-of-ai/)
+- [DyNet: The Dynamic Neural Network Toolkit](https://arxiv.org/pdf/1701.03980.pdf)
 
 ------------
 
