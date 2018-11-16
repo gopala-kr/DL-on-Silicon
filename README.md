@@ -62,6 +62,7 @@ Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710
 - [Mesh-TensorFlow: Deep Learning for Supercomputers](https://arxiv.org/pdf/1811.02084v1.pdf)
 - [AI Benchmark: Running Deep Neural Networks
 on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
+- [Apple: Democratizing Production-Scale Distributed Deep Learning](https://arxiv.org/pdf/1811.00143v1.pdf)
 
 ------------
 
