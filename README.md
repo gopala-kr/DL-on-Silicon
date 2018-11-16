@@ -60,6 +60,8 @@ Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710
 - [DyNet: The Dynamic Neural Network Toolkit](https://arxiv.org/pdf/1701.03980.pdf)
 - [Deep Learning with Dynamic Computation Graphs](https://arxiv.org/pdf/1702.02181.pdf)
 - [Mesh-TensorFlow: Deep Learning for Supercomputers](https://arxiv.org/pdf/1811.02084v1.pdf)
+- [AI Benchmark: Running Deep Neural Networks
+on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 
 ------------
 
