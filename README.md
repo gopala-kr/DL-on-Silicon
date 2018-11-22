@@ -54,8 +54,8 @@ Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710
 - [Intel AI: heterogenous-computing-ai-hardware-designed-for-specific-tasks ](https://ai.intel.com/heterogenous-computing-ai-hardware-designed-for-specific-tasks/)
 - [Intel AI Academy: Framework Optimization Training](https://software.intel.com/en-us/ai-academy/frameworks)
 - [Intel® Optimization for TensorFlow*](https://software.intel.com/en-us/videos/introduction-to-intel-optimization-for-tensorflow)
-- [Intel AI Docs](https://ai.intel.com/docs/)
-- [CUDA](https://github.com/Erkaman/Awesome-CUDA)
+- [Intel AI Docs](https://ai.intel.com/docs/) 
+- [CUDA](https://github.com/Erkaman/Awesome-CUDA) - useful libraries and resources for CUDA development
 - [IBM AI: Hardware and the Physics of AI](https://www.research.ibm.com/artificial-intelligence/physics-of-ai/)
 - [DyNet: The Dynamic Neural Network Toolkit](https://arxiv.org/pdf/1701.03980.pdf)
 - [Deep Learning with Dynamic Computation Graphs](https://arxiv.org/pdf/1702.02181.pdf)
