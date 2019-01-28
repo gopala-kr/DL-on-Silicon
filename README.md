@@ -69,7 +69,7 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 ------------
 
 
-_**Author**_
+_**Maintainer**_
 
 Gopala KR /@gopala-kr
 
