@@ -66,6 +66,9 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Communication Primitives in Deep Learning Frameworks](https://medium.com/south-park-commons/communication-primitives-in-deep-learning-frameworks-7faefb2f3f63)
 - [Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://blogs.technet.microsoft.com/machinelearning/2018/03/14/comparing-deep-learning-frameworks-a-rosetta-stone-approach/)
 - [CodeX: Bit-Flexible Encoding for Streaming-based FPGA Acceleration of DNNs](https://arxiv.org/abs/1901.05582v1)
+- [EcoRNN: Efficient Computing of LSTM RNN Training on GPUs](https://arxiv.org/abs/1805.08899v4)
+- [Training for 'Unstable' CNN Accelerator:A Case Study on FPGA](https://arxiv.org/abs/1812.01689v1)
+
 ------------
 
 
