@@ -68,6 +68,7 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [CodeX: Bit-Flexible Encoding for Streaming-based FPGA Acceleration of DNNs](https://arxiv.org/abs/1901.05582v1)
 - [EcoRNN: Efficient Computing of LSTM RNN Training on GPUs](https://arxiv.org/abs/1805.08899v4)
 - [Training for 'Unstable' CNN Accelerator:A Case Study on FPGA](https://arxiv.org/abs/1812.01689v1)
+- [Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers](https://arxiv.org/abs/1902.01474v1)
 
 ------------
 
