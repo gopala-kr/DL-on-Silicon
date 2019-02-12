@@ -69,6 +69,7 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [EcoRNN: Efficient Computing of LSTM RNN Training on GPUs](https://arxiv.org/abs/1805.08899v4)
 - [Training for 'Unstable' CNN Accelerator:A Case Study on FPGA](https://arxiv.org/abs/1812.01689v1)
 - [Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers](https://arxiv.org/abs/1902.01474v1)
+- [Software-Defined FPGA Accelerator Design for Mobile Deep Learning Applications](https://arxiv.org/abs/1902.03192v1)
 
 ------------
 
