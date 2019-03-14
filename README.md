@@ -72,6 +72,8 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Software-Defined FPGA Accelerator Design for Mobile Deep Learning Applications](https://arxiv.org/abs/1902.03192v1)
 - [Systimator: A Design Space Exploration Methodology for Systolic Array based CNNs Acceleration on the FPGA-based Edge Nodes](https://arxiv.org/abs/1901.04986v2)
 - [TensorSCONE: A Secure TensorFlow Framework using Intel SGX](https://arxiv.org/abs/1902.04413v1)
+- [Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling](https://arxiv.org/abs/1902.08295v1)
+
 ------------
 
 
