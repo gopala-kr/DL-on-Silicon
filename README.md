@@ -76,6 +76,7 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling](https://arxiv.org/abs/1902.08295v1)
 - [Hyperdrive: A Multi-Chip Systolically Scalable Binary-Weight CNN Inference Engine](https://arxiv.org/abs/1804.00623v3)
 - [High-Throughput CNN Inference on Embedded ARM big.LITTLE Multi-Core Processors](https://arxiv.org/abs/1903.05898v1)
+- [Improving Transparency of Deep Neural Inference Process](https://arxiv.org/abs/1903.05501v1)
 
 ------------
 
