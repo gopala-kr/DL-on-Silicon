@@ -80,7 +80,7 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Neuromorphic Hardware learns to learn](https://arxiv.org/abs/1903.06493v1)
 - [FixyNN: Efficient Hardware for Mobile Computer Vision via Transfer Learning](https://arxiv.org/abs/1902.11128v1)
 - [Extracting Success from IBM's 20-Qubit Machines Using Error-Aware Compilation](https://arxiv.org/abs/1903.10963v1)
-- ["Multi-Level Intermediate Representation" Compiler Infrastructure](https://github.com/tensorflow/mlir)
+- [Multi-Level Intermediate Representation" Compiler Infrastructure](https://github.com/tensorflow/mlir)
 - [TensorFlow Lite Now Faster with Mobile GPUs (Developer Preview)](https://medium.com/tensorflow/tensorflow-lite-now-faster-with-mobile-gpus-developer-preview-e15797e6dee7)
 
 ------------
