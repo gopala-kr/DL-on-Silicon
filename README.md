@@ -83,6 +83,7 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Multi-Level Intermediate Representation" Compiler Infrastructure](https://github.com/tensorflow/mlir)
 - [TensorFlow Lite Now Faster with Mobile GPUs (Developer Preview)](https://medium.com/tensorflow/tensorflow-lite-now-faster-with-mobile-gpus-developer-preview-e15797e6dee7)
 - [Open-sourcing PyTorch-BigGraph for faster embeddings of extremely large graphs](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs/)
+- [Accelerated Neural Networks on OpenCL Devices Using SYCL-DNN](https://arxiv.org/abs/1904.04174v1)
 
 ------------
 
