@@ -85,6 +85,7 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Open-sourcing PyTorch-BigGraph for faster embeddings of extremely large graphs](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs/)
 - [Accelerated Neural Networks on OpenCL Devices Using SYCL-DNN](https://arxiv.org/abs/1904.04174v1)
 - [DARPA, NSF Seek Real-Time ML Processor](https://www.hpcwire.com/2019/03/18/darpa-nsf-seek-real-time-ml-processor/)
+- [unlocking-dl-performance-with-ngraph](https://www.intel.ai/unlocking-dl-performance-with-ngraph/#gs.72u424)
 
 ------------
 
