@@ -86,6 +86,7 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Accelerated Neural Networks on OpenCL Devices Using SYCL-DNN](https://arxiv.org/abs/1904.04174v1)
 - [DARPA, NSF Seek Real-Time ML Processor](https://www.hpcwire.com/2019/03/18/darpa-nsf-seek-real-time-ml-processor/)
 - [unlocking-dl-performance-with-ngraph](https://www.intel.ai/unlocking-dl-performance-with-ngraph/#gs.72u424)
+- [Deep Learning in Mobile and Wireless Networking: A Survey](https://arxiv.org/pdf/1803.04311v3.pdf)
 
 ------------
 
