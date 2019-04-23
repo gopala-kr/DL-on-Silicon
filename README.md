@@ -88,6 +88,8 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [unlocking-dl-performance-with-ngraph](https://www.intel.ai/unlocking-dl-performance-with-ngraph/#gs.72u424)
 - [Deep Learning in Mobile and Wireless Networking: A Survey](https://arxiv.org/pdf/1803.04311v3.pdf)
 - [Meta Filter Pruning to Accelerate Deep Convolutional Neural Networks](https://arxiv.org/abs/1904.03961v1)
+- [alibaba/ai-matrix](https://github.com/alibaba/ai-matrix) - To make it easy to benchmark AI accelerators
+- [facebookresearch/deepfloat](https://github.com/facebookresearch/deepfloat) - An exploration of log domain "alternative floating point" for hardware ML/AI accelerators.
 
 ------------
 
