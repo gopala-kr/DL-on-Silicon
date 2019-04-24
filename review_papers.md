@@ -2,6 +2,8 @@
 #### Review Papers
 
 ----------
+#### 2019
+
 - [aspdac2019](http://www.aspdac.com/aspdac2019/)
 - [vlsisymposium](http://vlsisymposium.org/)
 - [isfpga](http://isfpga.org/)
@@ -10,13 +12,11 @@
 - [dac](https://www.dac.com/)
 - [hotchips](https://www.hotchips.org/)
 - [iccad](https://iccad.com/2019_call_for_papers)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [microarch](https://www.microarch.org/micro52/)
+- [fccm](https://www.fccm.org/)
+- [asplos](https://asplos-conference.org/)
+- [HPCA 2019](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=76103)
+- [isscc](http://isscc.org/)
 
 --------------
 
