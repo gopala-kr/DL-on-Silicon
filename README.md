@@ -91,6 +91,8 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [alibaba/ai-matrix](https://github.com/alibaba/ai-matrix) - To make it easy to benchmark AI accelerators
 - [facebookresearch/deepfloat](https://github.com/facebookresearch/deepfloat) - An exploration of log domain "alternative floating point" for hardware ML/AI accelerators.
 - [Stanford: Hardware Accelerators for Machine Learning (CS 217)](https://cs217.stanford.edu/)
+- [https://github.com/pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
+
 
 ------------
 
