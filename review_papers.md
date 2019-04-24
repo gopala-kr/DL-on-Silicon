@@ -2,6 +2,23 @@
 #### Review Papers
 
 ----------
+- [aspdac2019](http://www.aspdac.com/aspdac2019/)
+- [vlsisymposium](http://vlsisymposium.org/)
+- [isfpga](http://isfpga.org/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+--------------
 
 ##### 2018 ASPDAC
 - **ReGAN: A Pipelined ReRAM-Based Accelerator for Generative Adversarial Networks.** (University of Pittsburgh, Duke)
