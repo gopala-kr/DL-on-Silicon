@@ -96,6 +96,10 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [NeuroPod: a real-time neuromorphic spiking CPG applied to robotics](https://arxiv.org/abs/1904.11243v1)
 - [NengoDL: Combining deep learning and neuromorphic modelling methods](https://arxiv.org/abs/1805.11144v3)
 - [Dynamic Power Management for Neuromorphic Many-Core Systems](https://arxiv.org/abs/1903.08941v1)
+- [Programming multi-level quantum gates in disordered computing reservoirs via machine learning](https://arxiv.org/abs/1905.05264v2)
+- [Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/abs/1806.11463v3)
+- [Defining Quantum Neural Networks via Quantum Time Evolution](https://arxiv.org/abs/1905.10912v1)
+
 
 
 ------------
