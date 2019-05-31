@@ -102,6 +102,8 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Full-stack Optimization for Accelerating CNNs with FPGA Validation](https://arxiv.org/abs/1905.00462v1)
 - [OpenCL-based FPGA accelerator for disparity map generation with stereoscopic event cameras](https://arxiv.org/abs/1903.03509v1)
 - [Energy-Efficient Inference Accelerator for Memory-Augmented Neural Networks on an FPGA](https://arxiv.org/abs/1805.07978v2)
+- [Accelerator-Aware Pruning for Convolutional Neural Networks](https://arxiv.org/abs/1804.09862v2)
+- [RAPIDNN: In-Memory Deep Neural Network Acceleration Framework](https://arxiv.org/abs/1806.05794v4)
 
 ------------
 
