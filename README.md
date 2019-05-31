@@ -99,8 +99,9 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Programming multi-level quantum gates in disordered computing reservoirs via machine learning](https://arxiv.org/abs/1905.05264v2)
 - [Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/abs/1806.11463v3)
 - [Defining Quantum Neural Networks via Quantum Time Evolution](https://arxiv.org/abs/1905.10912v1)
-
-
+- [Full-stack Optimization for Accelerating CNNs with FPGA Validation](https://arxiv.org/abs/1905.00462v1)
+- [OpenCL-based FPGA accelerator for disparity map generation with stereoscopic event cameras](https://arxiv.org/abs/1903.03509v1)
+- [Energy-Efficient Inference Accelerator for Memory-Augmented Neural Networks on an FPGA](https://arxiv.org/abs/1805.07978v2)
 
 ------------
 
