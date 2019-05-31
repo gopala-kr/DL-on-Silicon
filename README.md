@@ -92,6 +92,10 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [facebookresearch/deepfloat](https://github.com/facebookresearch/deepfloat) - An exploration of log domain "alternative floating point" for hardware ML/AI accelerators.
 - [Stanford: Hardware Accelerators for Machine Learning (CS 217)](https://cs217.stanford.edu/)
 - [https://github.com/pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
+- [MorphIC: A 65-nm 738k-Synapse/mm2 Quad-Core Binary-Weight Digital Neuromorphic Processor with Stochastic Spike-Driven Online Learning](https://arxiv.org/abs/1904.08513v1)
+- [NeuroPod: a real-time neuromorphic spiking CPG applied to robotics](https://arxiv.org/abs/1904.11243v1)
+- [NengoDL: Combining deep learning and neuromorphic modelling methods](https://arxiv.org/abs/1805.11144v3)
+- [Dynamic Power Management for Neuromorphic Many-Core Systems](https://arxiv.org/abs/1903.08941v1)
 
 
 ------------
