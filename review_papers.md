@@ -43,9 +43,9 @@
 
 ##### 2018 HPCA
 - **Making Memristive Neural Network Accelerators Reliable.** (University of Rochester) [[Paper](http://www.cs.rochester.edu/~ipek/hpca18.pdf)]
-- **Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.** (University of Florida)
-- **Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks.** (POSTECH, NVIDIA, UT-Austin)
-- **In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems.** (University of Florida, Chongqing University, Capital Normal University)
+- **Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.** (University of Florida) [[Paper](https://mingcong.github.io/static/papers/GAN.pdf)]
+- **Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks.** (POSTECH, NVIDIA, UT-Austin) [[Paper](https://arxiv.org/pdf/1705.01626.pdf)]
+- **In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems.** (University of Florida, Chongqing University, Capital Normal University) [[Paper](https://mingcong.github.io/static/papers/In-situ_AI.pdf)]
 
 ##### 2018 ASPLOS
 - **Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.** (Tsinghua, UCSB) [[Paper](https://arxiv.org/abs/1801.00746)]
