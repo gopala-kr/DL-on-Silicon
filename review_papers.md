@@ -28,7 +28,7 @@
 - **Running sparse and low-precision neural network: when algorithm meets hardware.** (Duke) [[Paper]()]
 
 ##### 2018 ISSCC
-- **A 55nm Time-Domain Mixed-Signal Neuromorphic Accelerator with Stochastic Synapses and Embedded Reinforcement Learning for Autonomous Micro-Robots.** (Georgia Tech) [[Paper]()]
+- **A 55nm Time-Domain Mixed-Signal Neuromorphic Accelerator with Stochastic Synapses and Embedded Reinforcement Learning for Autonomous Micro-Robots.** (Georgia Tech) [[Paper](https://ieeexplore.ieee.org/document/8310215)]
 - **A Shift Towards Edge Machine-Learning Processing.** (Google) [[Paper]()]
 - **QUEST: A 7.49TOPS Multi-Purpose Log-Quantized DNN Inference Engine Stacked on 96MB 3D SRAM Using Inductive-Coupling Technology in 40nm CMOS.** (Hokkaido University, Ultra Memory, Keio University) [[Paper]()]
 - **UNPU: A 50.6TOPS/W Unified Deep Neural Network Accelerator with 1b-to-16b Fully-Variable Weight Bit-Precision.** (KAIST) [[Paper]()]
@@ -39,21 +39,21 @@
 - **Brain-Inspired Computing Exploiting Carbon Nanotube FETs and Resistive RAM: Hyperdimensional Computing Case Study.** (Stanford, UC Berkeley, MIT) [[Paper]()]
 - **A 65nm 1Mb Nonvolatile Computing-in-Memory ReRAM Macro with Sub-16ns Multiply-and-Accumulate for Binary DNN AI Edge Processors.** (NTHU) [[Paper]()]
 - **A 65nm 4Kb Algorithm-Dependent Computing-in-Memory SRAM Unit Macro with 2.3ns and 55.8TOPS/W Fully Parallel Product-Sum Operation for Binary DNN Edge Processors.** (NTHU, TSMC, UESTC, ASU) [[Paper]()]
-- **A 1μW Voice Activity Detector Using Analog Feature Extraction and Digital Deep Neural Network.** (Columbia University) [[Paper]()]
+- **A 1μW Voice Activity Detector Using Analog Feature Extraction and Digital Deep Neural Network.** (Columbia University) 
 
 ##### 2018 HPCA
-- **Making Memristive Neural Network Accelerators Reliable.** (University of Rochester)
+- **Making Memristive Neural Network Accelerators Reliable.** (University of Rochester) [[Paper](http://www.cs.rochester.edu/~ipek/hpca18.pdf)]
 - **Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.** (University of Florida)
 - **Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks.** (POSTECH, NVIDIA, UT-Austin)
 - **In-situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems.** (University of Florida, Chongqing University, Capital Normal University)
 
 ##### 2018 ASPLOS
-- **Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.** (Tsinghua, UCSB)
+- **Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler.** (Tsinghua, UCSB) [[Paper](https://arxiv.org/abs/1801.00746)]
 - **MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.** (Georgia Tech)
   - *Higher PE utilization: Use an augmented reduction tree (reconfigurable interconnects) to construct arbitrary sized virtual neurons.*
-- **VIBNN: Hardware Acceleration of Bayesian Neural Networks.** (Syracuse University, USC)
+- **VIBNN: Hardware Acceleration of Bayesian Neural Networks.** (Syracuse University, USC) [[Paper](https://arxiv.org/abs/1802.00822)]
 - Exploiting Dynamical Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications. (Guizhou University, University of Florida)
-- Potluck: Cross-application Approximate Deduplication for Computation-Intensive Mobile Applications. (Yale)
+- Potluck: Cross-application Approximate Deduplication for Computation-Intensive Mobile Applications. (Yale) [[Paper](http://www.cs.yale.edu/homes/guo-peizhen/files/potluck-asplos18.pdf)]
 
 ##### 2018 VLSI
 - **STICKER: A 0.41‐62.1 TOPS/W 8bit Neural Network Processor with Multi‐Sparsity Compatible Convolution Arrays and Online Tuning Acceleration for Fully Connected Layers.** (THU)
