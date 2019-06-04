@@ -142,20 +142,20 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Xilinx Project Everest: HW/SW Programmable Engine. (Xilinx) [[ppt](https://www.hotchips.org/hc30/2conf/2.03_Xilinx_Juanjo_XilinxSWPEHotChips20180819.pdf)]
 
 ##### 2018 ICCAD
-- **Tetris: Re-architecting Convolutional Neural Network Computation for Machine Learning Accelerators.** (CAS)
+- **Tetris: Re-architecting Convolutional Neural Network Computation for Machine Learning Accelerators.** (CAS) [[paper](https://arxiv.org/abs/1811.06841)]
 - **3DICT: A Reliable and QoS Capable Mobile Process-In-Memory Architecture for Lookup-based CNNs in 3D XPoint ReRAMs.** (Indiana - - University Bloomington, Florida International Univ.)
 - **TGPA: Tile-Grained Pipeline Architecture for Low Latency CNN Inference.** (PKU, UCLA, Falcon)
 - **NID: Processing Binary Convolutional Neural Network in Commodity DRAM.** (KAIST)
-- **Adaptive-Precision Framework for SGD using Deep Q-Learning.** (PKU)
+- **Adaptive-Precision Framework for SGD using Deep Q-Learning.** (PKU) [[paper](http://ceca.pku.edu.cn/docs/20190117174220183457.pdf)]
 - **Efficient Hardware Acceleration of CNNs using Logarithmic Data Representation with Arbitrary log-base.** (Robert Bosch GmbH)
 - **C-GOOD: C-code Generation Framework for Optimized On-device Deep Learning.** (SNU)
-- **Mixed Size Crossbar based RRAM CNN Accelerator with Overlapped Mapping Method.** (THU)
+- **Mixed Size Crossbar based RRAM CNN Accelerator with Overlapped Mapping Method.** (THU) [[paper](https://nicsefc.ee.tsinghua.edu.cn/media/publications/2018/ICCAD18_268.pdf)]
 - **FCN-Engine: Accelerating Deconvolutional Layers in Classic CNN Processors.** (HUT, CAS, NUS)
 - **DNNBuilder: an Automated Tool for Building High-Performance DNN Hardware Accelerators for FPGAs.** (UIUC)
 - **DIMA: A Depthwise CNN In-Memory Accelerator.** (Univ. of Central Florida)
 - **EMAT: An Efficient Multi-Task Architecture for Transfer Learning using ReRAM.** (Duke)
-- **FATE: Fast and Accurate Timing Error Prediction Framework for Low Power DNN Accelerator Design.** (NYU)
-- **Designing Adaptive Neural Networks for Energy-Constrained Image Classification.** (CMU)
+- **FATE: Fast and Accurate Timing Error Prediction Framework for Low Power DNN Accelerator Design.** (NYU) [[paper](https://arxiv.org/abs/1807.00480)]
+- **Designing Adaptive Neural Networks for Energy-Constrained Image Classification.** (CMU) [[paper](https://arxiv.org/abs/1808.01550)]
 - Watermarking Deep Neural Networks for Embedded Systems. (UCLA)
 - Defensive Dropout for Hardening Deep Neural Networks under Adversarial Attacks. (Northeastern Univ., Boston Univ., Florida International Univ.)
 - A Cross-Layer Methodology for Design and Optimization of Networks in 2.5D Systems. (Boston Univ., UCSD)
