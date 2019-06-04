@@ -67,8 +67,8 @@
 
 ##### 2018 FPGA
 
-- **C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.** (Peking Univ, Syracuse Univ, CUNY)
-- **DeltaRNN: A Power-efficient Recurrent Neural Network Accelerator.** (ETHZ, BenevolentAI)
+- **C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.** (Peking Univ, Syracuse Univ, CUNY) [[paper](https://arxiv.org/pdf/1803.06305.pdf)]
+- **DeltaRNN: A Power-efficient Recurrent Neural Network Accelerator.** (ETHZ, BenevolentAI) [[paper](https://www.research-collection.ethz.ch/handle/20.500.11850/279104)]
 - **Towards a Uniform Template-based Architecture for Accelerating 2D and 3D CNNs on FPGA.** (National Univ of Defense Tech) [[Chain-NN](https://arxiv.org/ftp/arxiv/papers/1703/1703.01457.pdf)]
 - **A Customizable Matrix Multiplication Framework for the Intel HARPv2 Xeon+FPGA Platform - A Deep Learning Case Study.** (The Univ of Sydney, Intel) [[ppt](https://slideplayer.com/slide/14031814/)]
 - **A Framework for Generating High Throughput CNN Implementations on FPGAs.** (USC)  [[Paper](https://par.nsf.gov/servlets/purl/10076666)]
@@ -105,7 +105,7 @@
    - *Decompose convolution into multiple dense and zero kernels for sparsity savings.*
 - **Block Convolution: Towards Memory-Efficient Inference of Large-Scale CNNs on FPGA.** (CAS)
 - **moDNN: Memory Optimal DNN Training on GPUs.** (University of Notre Dame, CAS)
-- HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks. (CMU, Google)
+- HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks. (CMU, Google) [[paper](https://arxiv.org/abs/1712.02446)]
 
 ##### 2018 DAC
 - **Compensated-DNN: Energy Efficient Low-Precision Deep Neural Networks by Compensating Quantization Errors.** (**Best Paper**, Purdue, IBM)
