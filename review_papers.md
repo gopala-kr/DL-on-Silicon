@@ -89,12 +89,12 @@
 - **The Dark Side of DNN Pruning.** (UPC) [[paper](http://personals.ac.upc.edu/ryazdani/The_Dark_Side_of_DNN_Pruning.pdf)]
 - **Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks.** (Michigan) [[paper](https://arxiv.org/abs/1805.03718)]
 - EVA^2: Exploiting Temporal Redundancy in Live Computer Vision. (Cornell) [[arxiv](https://arxiv.org/abs/1803.06312)]
-- Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision. (Rochester, Georgia Tech, ARM)
+- Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision. (Rochester, Georgia Tech, ARM) [[paper](https://arxiv.org/abs/1803.11232)]
 - Feature-Driven and Spatially Folded Digital Neurons for Efficient Spiking Neural Network Simulations. (POSTECH/Berkeley, Seoul National)
-- Space-Time Algebra: A Model for Neocortical Computation. (Wisconsin)
-- Scaling Datacenter Accelerators With Compute-Reuse Architectures. (Princeton)
+- Space-Time Algebra: A Model for Neocortical Computation. (Wisconsin) [[paper](https://iscaconf.org/isca2018/slides/4A2.pdf)]
+- Scaling Datacenter Accelerators With Compute-Reuse Architectures. (Princeton) [[paper](http://parallel.princeton.edu/papers/corex-isca18.pdf)]
    - *Add a NVM-based storage layer to the accelerator, for computation reuse.*
-- Enabling Scientific Computing on Memristive Accelerators. (Rochester)
+- Enabling Scientific Computing on Memristive Accelerators. (Rochester) [[paper](https://bfeinberg.com/isca18.pdf)]
 
 ##### 2018 DATE
 - **MATIC: Learning Around Errors for Efficient Low-Voltage Neural Network Accelerators.** (University of Washington)
