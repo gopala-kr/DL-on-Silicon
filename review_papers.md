@@ -163,12 +163,12 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 ##### 2018 MICRO
 - **Addressing Irregularity in Sparse Neural Networks:A Cooperative Software/Hardware Approach.** (USTC, CAS)
 - **Diffy: a Deja vu-Free Differential Deep Neural Network Accelerator.** (University of Toronto)
-- **Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning.** (KAIST)
+- **Beyond the Memory Wall: A Case for Memory-centric HPC System for Deep Learning.** (KAIST) [[paper](https://arxiv.org/abs/1902.06468)]
 - **Towards Memory Friendly Long-Short Term Memory Networks (LSTMs) on Mobile GPUs.** (University of Houston, Capital Normal University)
-- **A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks.** (UIUC, THU, SJTU, Intel, UCSD)
+- **A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks.** (UIUC, THU, SJTU, Intel, UCSD) [[paper](https://www.cc.gatech.edu/~hadi/doc/paper/2018-micro-inceptionn.pdf)]
 - **PermDNN: Efficient Compressed Deep Neural Network Architecture with Permuted Diagonal Matrices.** (City University of New York, University of Minnesota, USC)
-- **GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware.** (Georgia Tech)
-- **Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach.** (UCM, UCSD, UCSC)
+- **GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware.** (Georgia Tech) [[arxiv](https://arxiv.org/pdf/1808.01363)]
+- **Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach.** (UCM, UCSD, UCSC) [[paper](https://cseweb.ucsd.edu/~jzhao/files/pim-micro2018.pdf)]
 - **LerGAN: A Zero-free, Low Data Movement and PIM-based GAN Architecture.** (THU, University of Florida)
 - **Multi-dimensional Parallel Training of Winograd Layer through Distributed Near-Data Processing.** (KAIST)
 - **SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator.** (UCSB, Samsung)
