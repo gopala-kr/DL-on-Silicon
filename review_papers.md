@@ -77,11 +77,11 @@
 ##### 2018 ISCA
 - **RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM.** (THU) [[ppt](https://pdfs.semanticscholar.org/f7fc/4763e37ef84f9780385f9a493428e7bb0223.pdf)]
 - **Brainwave: A Configurable Cloud-Scale DNN Processor for Real-Time AI.** (Microsoft) [[Paper](https://iscaconf.org/isca2018/slides/1A1.pdf)]  [[Paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/06/ISCA18-Brainwave-CameraReady.pdf)]
-- **PROMISE: An End-to-End Design of a Programmable Mixed-Signal Accelerator for Machine Learning Algorithms.** (UIUC)
-- **Computation Reuse in DNNs by Exploiting Input Similarity.** (UPC)
-- **GANAX: A Unified SIMD-MIMD Acceleration for Generative Adversarial Network.** (Georiga Tech, IPM, Qualcomm, UCSD, UIUC)
-- **SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.** (UCSD, Georgia Tech, Qualcomm)
-- **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition.** (UIUC, NVIDIA)
+- **PROMISE: An End-to-End Design of a Programmable Mixed-Signal Accelerator for Machine Learning Algorithms.** (UIUC) [[ppt](https://iscaconf.org/isca2018/slides/1B1.pdf)]
+- **Computation Reuse in DNNs by Exploiting Input Similarity.** (UPC) [[ppt](https://iscaconf.org/isca2018/slides/1B2.pdf)]
+- **GANAX: A Unified SIMD-MIMD Acceleration for Generative Adversarial Network.** (Georiga Tech, IPM, Qualcomm, UCSD, UIUC) [[paper](https://arxiv.org/abs/1806.01107)]
+- **SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.** (UCSD, Georgia Tech, Qualcomm) [[paper](https://www.cc.gatech.edu/~hadi/doc/paper/2018-isca-snapea.pdf)]
+- **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition.** (UIUC, NVIDIA) [[paper](https://arxiv.org/abs/1804.06508)]
 - **An Energy-Efficient Neural Network Accelerator based on Outlier-Aware Low Precision Computation.** (Seoul National)
 - **Prediction based Execution on Deep Neural Networks.** (Florida)
 - **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks.** (Georgia Tech, ARM, UCSD)
