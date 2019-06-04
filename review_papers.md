@@ -170,11 +170,11 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware.** (Georgia Tech) [[arxiv](https://arxiv.org/pdf/1808.01363)]
 - **Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach.** (UCM, UCSD, UCSC) [[paper](https://cseweb.ucsd.edu/~jzhao/files/pim-micro2018.pdf)]
 - **LerGAN: A Zero-free, Low Data Movement and PIM-based GAN Architecture.** (THU, University of Florida)
-- **Multi-dimensional Parallel Training of Winograd Layer through Distributed Near-Data Processing.** (KAIST)
+- **Multi-dimensional Parallel Training of Winograd Layer through Distributed Near-Data Processing.** (KAIST) [[paper](http://icn.kaist.ac.kr/bhong/files/MICRO18_MPT_paper.pdf)]
 - **SCOPE: A Stochastic Computing Engine for DRAM-based In-situ Accelerator.** (UCSB, Samsung)
-- **Morph: Flexible Acceleration for 3D CNN-based Video Understanding.** (UIUC)
-- Inter-thread Communication in Multithreaded, Reconfigurable Coarse-grain Arrays. (Technion)
-- An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware. (Cornell)
+- **Morph: Flexible Acceleration for 3D CNN-based Video Understanding.** (UIUC) [[paper](https://arxiv.org/abs/1810.06807)]
+- Inter-thread Communication in Multithreaded, Reconfigurable Coarse-grain Arrays. (Technion) [[paper](https://arxiv.org/abs/1801.05178)]
+- An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware. (Cornell) [[ppt](http://www.csl.cornell.edu/~cbatten/pdfs/chen-parallelxl-slides-micro2018.pdf)]
 
 -------------
 
@@ -444,3 +444,5 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission. (Univ. of Michigan, Univ. of Nevada)
 - Data Movement Aware Computation Partitioning. (PSU, TOBB University of Economics and Technology)
   - *Partition computation on a manycore system for near data processing.*
+
+--------------------------------------
