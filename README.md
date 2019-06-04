@@ -105,7 +105,7 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Energy-Efficient Inference Accelerator for Memory-Augmented Neural Networks on an FPGA](https://arxiv.org/abs/1805.07978v2)
 - [Accelerator-Aware Pruning for Convolutional Neural Networks](https://arxiv.org/abs/1804.09862v2)
 - [RAPIDNN: In-Memory Deep Neural Network Acceleration Framework](https://arxiv.org/abs/1806.05794v4)
-
+- [Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation](https://arxiv.org/abs/1905.12799v1)
 ------------
 
 
