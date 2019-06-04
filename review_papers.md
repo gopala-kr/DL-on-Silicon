@@ -135,11 +135,11 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 ##### 2018 HotChips
 - **ARM's First Generation ML Processor.** (ARM) [[ppt](https://www.hotchips.org/hc30/2conf/2.07_ARM_ML_Processor_HC30_ARM_2018_08_17.pdf)]
 - **The NVIDIA Deep Learning Accelerator.** (NVIDIA) [[ppt](https://www.hotchips.org/hc30/2conf/2.08_NVidia_DLA_Nvidia_DLA_HotChips_10Aug18.pdf)]
-- **Xilinx Tensor Processor: An Inference Engine, Network Compiler + Runtime for Xilinx FPGAs.** (Xilinx)
-- Tachyum Cloud Chip for Hyperscale workloads, deep ML, general, symbolic and bio AI. (Tachyum)
-- SMIV: A 16nm SoC with Efficient and Flexible DNN Acceleration for Intelligent IoT Devices. (ARM)
-- NVIDIA's Xavier System-on-Chip. (NVIDIA)
-- Xilinx Project Everest: HW/SW Programmable Engine. (Xilinx)
+- **Xilinx Tensor Processor: An Inference Engine, Network Compiler + Runtime for Xilinx FPGAs.** (Xilinx) [[ppt](https://www.hotchips.org/hc30/2conf/2.11_Xilinx_HC30_Xilinx_Rahul_Nimaiyar_08212018_v2.pdf)]
+- Tachyum Cloud Chip for Hyperscale workloads, deep ML, general, symbolic and bio AI. (Tachyum) [[ppt](https://www.hotchips.org/hc30/2conf/2.09_Tachyum_Tachyum_Hotchips_2018.pdf)]
+- SMIV: A 16nm SoC with Efficient and Flexible DNN Acceleration for Intelligent IoT Devices. (ARM) [[ppt](https://www.hotchips.org/hc30/1conf/1.10_Harvard_Whatmough_Hotchips_2018_0.7.pdf)]
+- NVIDIA's Xavier System-on-Chip. (NVIDIA) [[ppt](https://www.hotchips.org/hc30/1conf/1.12_Nvidia_XavierHotchips2018Final_814.pdf)]
+- Xilinx Project Everest: HW/SW Programmable Engine. (Xilinx) [[ppt](https://www.hotchips.org/hc30/2conf/2.03_Xilinx_Juanjo_XilinxSWPEHotChips20180819.pdf)]
 
 ##### 2018 ICCAD
 - **Tetris: Re-architecting Convolutional Neural Network Computation for Machine Learning Accelerators.** (CAS)
