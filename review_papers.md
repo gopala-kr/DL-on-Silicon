@@ -97,7 +97,7 @@
 - Enabling Scientific Computing on Memristive Accelerators. (Rochester) [[paper](https://bfeinberg.com/isca18.pdf)]
 
 ##### 2018 DATE
-- **MATIC: Learning Around Errors for Efficient Low-Voltage Neural Network Accelerators.** (University of Washington)
+- **MATIC: Learning Around Errors for Efficient Low-Voltage Neural Network Accelerators.** (University of Washington) [[paper](https://arxiv.org/abs/1706.04332)]
    - *Learn around errors resulting from SRAM voltage scaling, demonstrated on a fabricated 65nm test chip.*
 - **Maximizing System Performance by Balancing Computation Loads in LSTM Accelerators.** (POSTECH)
    - *Sparse matrix format that load balances computation, demonstrated for LSTMs.*
@@ -133,8 +133,8 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - VRL-DRAM: Improving DRAM Performance via Variable Refresh Latency. (Drexel Univ. ETHZ)
 
 ##### 2018 HotChips
-- **ARM's First Generation ML Processor.** (ARM)
-- **The NVIDIA Deep Learning Accelerator.** (NVIDIA)
+- **ARM's First Generation ML Processor.** (ARM) [[ppt](https://www.hotchips.org/hc30/2conf/2.07_ARM_ML_Processor_HC30_ARM_2018_08_17.pdf)]
+- **The NVIDIA Deep Learning Accelerator.** (NVIDIA) [[ppt](https://www.hotchips.org/hc30/2conf/2.08_NVidia_DLA_Nvidia_DLA_HotChips_10Aug18.pdf)]
 - **Xilinx Tensor Processor: An Inference Engine, Network Compiler + Runtime for Xilinx FPGAs.** (Xilinx)
 - Tachyum Cloud Chip for Hyperscale workloads, deep ML, general, symbolic and bio AI. (Tachyum)
 - SMIV: A 16nm SoC with Efficient and Flexible DNN Acceleration for Intelligent IoT Devices. (ARM)
