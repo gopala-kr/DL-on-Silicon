@@ -69,9 +69,9 @@
 
 - **C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.** (Peking Univ, Syracuse Univ, CUNY)
 - **DeltaRNN: A Power-efficient Recurrent Neural Network Accelerator.** (ETHZ, BenevolentAI)
-- **Towards a Uniform Template-based Architecture for Accelerating 2D and 3D CNNs on FPGA.** (National Univ of Defense Tech)
-- **A Customizable Matrix Multiplication Framework for the Intel HARPv2 Xeon+FPGA Platform - A Deep Learning Case Study.** (The Univ of Sydney, Intel)
-- **A Framework for Generating High Throughput CNN Implementations on FPGAs.** (USC)
+- **Towards a Uniform Template-based Architecture for Accelerating 2D and 3D CNNs on FPGA.** (National Univ of Defense Tech) [[Chain-NN](https://arxiv.org/ftp/arxiv/papers/1703/1703.01457.pdf)]
+- **A Customizable Matrix Multiplication Framework for the Intel HARPv2 Xeon+FPGA Platform - A Deep Learning Case Study.** (The Univ of Sydney, Intel) [[ppt](https://slideplayer.com/slide/14031814/)]
+- **A Framework for Generating High Throughput CNN Implementations on FPGAs.** (USC)  [[Paper](https://par.nsf.gov/servlets/purl/10076666)]
 - Liquid Silicon: A Data-Centric Reconfigurable Architecture enabled by RRAM Technology. (UW Madison)
 
 ##### 2018 ISCA
