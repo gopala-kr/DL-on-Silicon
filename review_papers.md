@@ -75,8 +75,8 @@
 - Liquid Silicon: A Data-Centric Reconfigurable Architecture enabled by RRAM Technology. (UW Madison)
 
 ##### 2018 ISCA
-- **RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM.** (THU)
-- **Brainwave: A Configurable Cloud-Scale DNN Processor for Real-Time AI.** (Microsoft)
+- **RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM.** (THU) [[ppt](https://pdfs.semanticscholar.org/f7fc/4763e37ef84f9780385f9a493428e7bb0223.pdf)]
+- **Brainwave: A Configurable Cloud-Scale DNN Processor for Real-Time AI.** (Microsoft) [[Paper](https://iscaconf.org/isca2018/slides/1A1.pdf)]  [[Paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/06/ISCA18-Brainwave-CameraReady.pdf)]
 - **PROMISE: An End-to-End Design of a Programmable Mixed-Signal Accelerator for Machine Learning Algorithms.** (UIUC)
 - **Computation Reuse in DNNs by Exploiting Input Similarity.** (UPC)
 - **GANAX: A Unified SIMD-MIMD Acceleration for Generative Adversarial Network.** (Georiga Tech, IPM, Qualcomm, UCSD, UIUC)
@@ -279,7 +279,7 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Neural Networks Designing Neural Networks: Multi-Objective Hyper-Parameter Optimization. (McGill University)
 
 ##### 2016 MICRO
-- **From High-Level Deep Neural Models to FPGAs.** (Georgia Institute of Technology, Intel)
+- **From High-Level Deep Neural Models to FPGAs.** (Georgia Institute of Technology, Intel) [[Paper](https://www.cc.gatech.edu/~jpark632/doc/paper/2016-micro-dnn_weaver.pdf)]
   - *Develop a macro dataflow ISA for DNN accelerators.*
   - *Develop hand-optimized template designs that are scalable and highly customizable.*
   - *Provide a Template Resource Optimization search algorithm to co-optimize the accelerator architecture and scheduling.*
