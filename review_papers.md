@@ -83,12 +83,12 @@
 - **SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.** (UCSD, Georgia Tech, Qualcomm) [[paper](https://www.cc.gatech.edu/~hadi/doc/paper/2018-isca-snapea.pdf)]
 - **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition.** (UIUC, NVIDIA) [[paper](https://arxiv.org/abs/1804.06508)]
 - **An Energy-Efficient Neural Network Accelerator based on Outlier-Aware Low Precision Computation.** (Seoul National)
-- **Prediction based Execution on Deep Neural Networks.** (Florida)
-- **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks.** (Georgia Tech, ARM, UCSD)
+- **Prediction based Execution on Deep Neural Networks.** (Florida) [[paper](https://mingcong.github.io/static/papers/Prediction_AI.pdf)]
+- **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks.** (Georgia Tech, ARM, UCSD) [[paper](https://arxiv.org/abs/1712.01507)]
 - **Gist: Efficient Data Encoding for Deep Neural Network Training.** (Michigan, Microsoft, Toronto)
-- **The Dark Side of DNN Pruning.** (UPC)
-- **Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks.** (Michigan)
-- EVA^2: Exploiting Temporal Redundancy in Live Computer Vision. (Cornell)
+- **The Dark Side of DNN Pruning.** (UPC) [[paper](http://personals.ac.upc.edu/ryazdani/The_Dark_Side_of_DNN_Pruning.pdf)]
+- **Neural Cache: Bit-Serial In-Cache Acceleration of Deep Neural Networks.** (Michigan) [[paper](https://arxiv.org/abs/1805.03718)]
+- EVA^2: Exploiting Temporal Redundancy in Live Computer Vision. (Cornell) [[arxiv](https://arxiv.org/abs/1803.06312)]
 - Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision. (Rochester, Georgia Tech, ARM)
 - Feature-Driven and Spatially Folded Digital Neurons for Efficient Spiking Neural Network Simulations. (POSTECH/Berkeley, Seoul National)
 - Space-Time Algebra: A Model for Neocortical Computation. (Wisconsin)
