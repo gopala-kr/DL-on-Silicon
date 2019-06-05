@@ -356,26 +356,26 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing. (Syracuse University, USC, The City College of New York)
 
 ##### 2017 ISCA
-- **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** (Stony Brook University)
+- **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** (Stony Brook University) [[paper](http://compas.cs.stonybrook.edu/~mferdman/downloads.php/ISCA17_Maximizing_CNN_Accelerator_Efficiency_Through_Resource_Partitioning.pdf)]
   - *An Extension of their FPL'16 paper.*
-- **In-Datacenter Performance Analysis of a Tensor Processing Unit.** (Google)
-- **SCALEDEEP: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.** (Purdue University, Intel)
+- **In-Datacenter Performance Analysis of a Tensor Processing Unit.** (Google) [[paper](https://arxiv.org/abs/1704.04760)]
+- **SCALEDEEP: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.** (Purdue University, Intel) [[ppt](http://www.eecs.umich.edu/courses/eecs573/slides/54_SCALEDEEP.pdf)]
   - *Propose a full-system (server node) architecture, focusing on the challenge of DNN training ().*
-- **SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.** (NVIDIA, MIT, UC Berkeley, Stanford University)
-- **Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.** (University of Michigan, ARM)
-- Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent. (Stanford)
-- LogCA: A High-Level Performance Model for Hardware Accelerators. (AMD, University of Wisconsin-Madison)
-- APPROX-NoC: A Data Approximation Framework for Network-On-Chip Architectures. (TAMU)
+- **SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.** (NVIDIA, MIT, UC Berkeley, Stanford University) [[paper](https://arxiv.org/abs/1708.04485)]
+- **Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.** (University of Michigan, ARM) [[paper](http://homes.sice.indiana.edu/lukefahr/papers/jiecaoyu_isca17.pdf)]
+- Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent. (Stanford) [[paper](http://www.cs.cornell.edu/~cdesa/papers/isca2017_buckwild.pdf)]
+- LogCA: A High-Level Performance Model for Hardware Accelerators. (AMD, University of Wisconsin-Madison) [[paper](http://research.cs.wisc.edu/multifacet/papers/isca17_logca.pdf)]
+- APPROX-NoC: A Data Approximation Framework for Network-On-Chip Architectures. (TAMU) [[paper](http://faculty.cs.tamu.edu/ejkim/HPC_WEB/docs/isca17-approxnoc.pdf)]
 
 ##### 2017 FCCM
 - **Escher: A CNN Accelerator with Flexible Buffering to Minimize Off-Chip Transfer.** (Stony Brook University)
-- **Customizing Neural Networks for Efficient FPGA Implementation.**
-- **Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs.**
-- **FP-DNN: An Automated Framework for Mapping Deep Neural Networks onto FPGAs with RTL-HLS Hybrid Templates.** (Peking University, HKUST, MSRA, UCLA)
+- **Customizing Neural Networks for Efficient FPGA Implementation.** [[paper](http://aceslab.org/sites/default/files/SamraghCustomizing.pdf)]
+- **Evaluating Fast Algorithms for Convolutional Neural Networks on FPGAs.** [[paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf)]
+- **FP-DNN: An Automated Framework for Mapping Deep Neural Networks onto FPGAs with RTL-HLS Hybrid Templates.** (Peking University, HKUST, MSRA, UCLA) [[paper](https://vast.cs.ucla.edu/sites/default/files/publications/fccm2017.pdf)]
   - *Compute-instensive part: RTL-based generalized matrix multiplication kernel.*
   - *Layer-specific part: HLS-based control logic.*
   - *Memory-instensive part: Several techniques for lower DRAM bandwidth requirements.*
-- FPGA accelerated Dense Linear Machine Learning: A Precision-Convergence Trade-off.
+- FPGA accelerated Dense Linear Machine Learning: A Precision-Convergence Trade-off. [[paper](https://people.inf.ethz.ch/omutlu/pub/fpga-accelerated-dense-linear-machine-learning_fccm17-talk.pdf)]
 - A Configurable FPGA Implementation of the Tanh Function using DCT Interpolation.
 
 ##### 2017 DAC
