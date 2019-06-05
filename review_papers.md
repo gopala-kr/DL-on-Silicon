@@ -20,6 +20,10 @@
 
 --------------
 
+- [A Survey of FPGA Based Deep Learning
+Accelerators: Challenges and Opportunities
+](https://arxiv.org/pdf/1901.04988.pdf)
+
 ##### 2018 ASPDAC
 - **ReGAN: A Pipelined ReRAM-Based Accelerator for Generative Adversarial Networks.** (University of Pittsburgh, Duke) [[Paper](https://zichenfan.github.io/pdf/DATE19.pdf)]
 - **Accelerator-centric Deep Learning Systems for Enhanced Scalability, Energy-efficiency, and Programmability.** (POSTECH)
@@ -400,13 +404,13 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **DVAFS: Trading Computational Accuracy for Energy Through Dynamic-Voltage-Accuracy-Frequency-Scaling.** (KU Leuven)
 - **Accelerator-friendly Neural-network Training: Learning Variations and Defects in RRAM Crossbar.** (Shanghai Jiao Tong University, University of Pittsburgh, Lynmax Research)
 - **A Novel Zero Weight/Activation-Aware Hardware Architecture of Convolutional Neural Network.** (Seoul National University)
-- **Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks.** (Brown University)
-- **Design Space Exploration of FPGA Accelerators for Convolutional Neural Networks.** (Samsung, UNIST, Seoul National University)
-- **MoDNN: Local Distributed Mobile Computing System for Deep Neural Network.** (University of Pittsburgh, George Mason University, University of Maryland)
-- **Chain-NN: An Energy-Efficient 1D Chain Architecture for Accelerating Deep Convolutional Neural Networks.** (Waseda University)
-- **LookNN: Neural Network with No Multiplication.** (UCSD)
-- Energy-Efficient Approximate Multiplier Design using Bit Significance-Driven Logic Compression. (Newcastle University)
-- Revamping Timing Error Resilience to Tackle Choke Points at NTC Systems. (Utah State University)
+- **Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks.** (Brown University) [[arxiv](https://arxiv.org/abs/1612.03940)]
+- **Design Space Exploration of FPGA Accelerators for Convolutional Neural Networks.** (Samsung, UNIST, Seoul National University) [[paper](https://www.ece.ucdavis.edu/~soheil/publications/conference/DCNN_16.pdf)]
+- **MoDNN: Local Distributed Mobile Computing System for Deep Neural Network.** (University of Pittsburgh, George Mason University, University of Maryland) [[paper](https://pdfs.semanticscholar.org/99a9/304cc17be64d2e779c1ca5f824e7b52f4261.pdf)]
+- **Chain-NN: An Energy-Efficient 1D Chain Architecture for Accelerating Deep Convolutional Neural Networks.** (Waseda University) [[paper](https://arxiv.org/abs/1703.01457)]
+- **LookNN: Neural Network with No Multiplication.** (UCSD) [[paper](http://moimani.weebly.com/uploads/2/3/8/6/23860882/looknn_date17.pdf)]
+- Energy-Efficient Approximate Multiplier Design using Bit Significance-Driven Logic Compression. (Newcastle University) [[paper](http://rishadshafik.net/onewebmedia/DATE-244-Qiqieh.pdf)]
+- Revamping Timing Error Resilience to Tackle Choke Points at NTC Systems. (Utah State University) [[paper](https://digitalcommons.usu.edu/etd/7456/)]
 
 ##### 2017 VLSI
 - **A 3.43TOPS/W 48.9pJ/Pixel 50.1nJ/Classification 512 Analog Neuron Sparse Coding Neural Network with On-Chip Learning and Classification in 40nm CMOS.** (University of Michigan, Intel)
@@ -415,34 +419,35 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **A 127mW 1.63TOPS sparse spatio-temporal cognitive SoC for action classification and motion tracking in videos.** (University of Michigan)
 
 #####  2017 ICCAD
-- **AEP: An Error-bearing Neural Network Accelerator for Energy Efficiency and Model Protection.** (University of Pittsburgh)
+- **AEP: An Error-bearing Neural Network Accelerator for Energy Efficiency and Model Protection.** (University of Pittsburgh) [[paper](http://people.cs.pitt.edu/~leizhao/publications/ICCAD2017.pdf)]
 - VoCaM: Visualization oriented convolutional neural network acceleration on mobile system.
 - AdaLearner: An Adaptive Distributed Mobile Learning System for Neural Networks.
 - MeDNN: A Distributed Mobile System with Enhanced Partition and Deployment for Large-Scale DNNs.
-- TraNNsformer: Neural Network Transformation for Memristive Crossbar based Neuromorphic System Design. (Purdue University).
+- TraNNsformer: Neural Network Transformation for Memristive Crossbar based Neuromorphic System Design. (Purdue University). [[paper](https://arxiv.org/abs/1708.07949)]
 - A Closed-loop Design to Enhance Weight Stability of Memristor Based Neural Network Chips.
 - Fault injection attack on deep neural network.
-- ORCHARD: Visual Object Recognition Accelerator Based on Approximate In-Memory Processing. (UCSD)
+- ORCHARD: Visual Object Recognition Accelerator Based on Approximate In-Memory Processing. (UCSD) [[paper](https://ieeexplore.ieee.org/abstract/document/8203756)]
 
 ##### 2017 HotChips
-- **A Dataflow Processing Chip for Training Deep Neural Networks.** (Wave Computing)
-- **Brainwave: Accelerating Persistent Neural Networks at Datacenter Scale.** (Microsoft)
-- **DNN ENGINE: A 16nm Sub-uJ Deep Neural Network Inference Accelerator for the Embedded Masses.** (Harvard, ARM)
-- **DNPU: An Energy-Efficient Deep Neural Network Processor with On-Chip Stereo Matching.** (KAIST)
-- **Evaluation of the Tensor Processing Unit (TPU): A Deep Neural Network Accelerator for the Datacenter.** (Google)
-- NVIDIA’s Volta GPU: Programmability and Performance for GPU Computing. (NVIDIA)
-- Knights Mill: Intel Xeon Phi Processor for Machine Learning. (Intel)
-- XPU: A programmable FPGA Accelerator for diverse workloads. (Baidu)
+- **A Dataflow Processing Chip for Training Deep Neural Networks.** (Wave Computing) [paper[](https://www.hotchips.org/wp-content/uploads/hc_archives/hc29/HC29.22-Tuesday-Pub/HC29.22.60-NeuralNet1-Pub/HC29.22.610-Dataflow-Deep-Nicol-Wave-07012017.pdf)]
+- **Brainwave: Accelerating Persistent Neural Networks at Datacenter Scale.** (Microsoft) [[paper](http://isfpga.org/fpga2018/slides/FPGA18_Panel_Talk_Eric_Chung.pdf)]
+- **DNN ENGINE: A 16nm Sub-uJ Deep Neural Network Inference Accelerator for the Embedded Masses.** (Harvard, ARM) [[paper](https://www.hotchips.org/wp-content/uploads/hc_archives/hc29/HC29.22-Tuesday-Pub/HC29.22.70-NeuralNet2-Pub/HC29.22.711-DNN-Engine-Whatmough-ARM-0.6_clean.pdf)]
+- **DNPU: An Energy-Efficient Deep Neural Network Processor with On-Chip Stereo Matching.** (KAIST) [[paper](https://www.hotchips.org/wp-content/uploads/hc_archives/hc29/HC29.22-Tuesday-Pub/HC29.22.70-NeuralNet2-Pub/HC29.22.721-DNPU-Shin-KAIST-3rd.pdf)]
+- **Evaluation of the Tensor Processing Unit (TPU): A Deep Neural Network Accelerator for the Datacenter.** (Google) [[paper](https://eecs.berkeley.edu/research/colloquium/170315)]
+- NVIDIA’s Volta GPU: Programmability and Performance for GPU Computing. (NVIDIA) [[paper](https://images.nvidia.com/content/volta-architecture/pdf/volta-architecture-whitepaper.pdf)]
+- Knights Mill: Intel Xeon Phi Processor for Machine Learning. (Intel) [[paper](https://www.hotchips.org/wp-content/uploads/hc_archives/hc29/HC29.21-Monday-Pub/HC29.21.40-Processors-Pub/HC29.21.421-Knights-Mill-Bradford-Intel-APPROVED.pdf)]
+- XPU: A programmable FPGA Accelerator for diverse workloads. (Baidu) [[paper](https://www.hotchips.org/wp-content/uploads/hc_archives/hc29/HC29.21-Monday-Pub/HC29.21.40-Processors-Pub/HC29.21.410-XPU-FPGA-Ouyang-Baidu.pdf)]
 
 ##### 2017 MICRO
+
 - **Distributed FPGA Acceleration for Learning.** (Georgia Tech, UCSD)
-- **Bit-Pragmatic Deep Neural Network Computing.** (NVIDIA, University of Toronto)
-- **CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.** (Syracuse University, City University of New York, USC, California State University, Northeastern University)
-- **Addressing Compute and Memory Bottlenecks for DNN Execution on GPUs.** (University of Michigan)
-- DRISA: A DRAM-based Reconfigurable In-Situ Accelerator. (UCSB, Samsung)
-- Scale-Out Acceleration for Machine Learning. (Georgia Tech, UCSD)
-- DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission. (Univ. of Michigan, Univ. of Nevada)
-- Data Movement Aware Computation Partitioning. (PSU, TOBB University of Economics and Technology)
+- **Bit-Pragmatic Deep Neural Network Computing.** (NVIDIA, University of Toronto) [[arxiv](https://arxiv.org/pdf/1610.06920.pdf)]
+- **CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices.** (Syracuse University, City University of New York, USC, California State University, Northeastern University) [[arxiv](https://arxiv.org/abs/1708.08917)]
+- **Addressing Compute and Memory Bottlenecks for DNN Execution on GPUs.** (University of Michigan) [[paper](http://cccp.eecs.umich.edu/papers/parkerhh-micro17.pdf)]
+- DRISA: A DRAM-based Reconfigurable In-Situ Accelerator. (UCSB, Samsung) [[paper](https://seal.ece.ucsb.edu/sites/default/files/publications/p288-li.pdf)]
+- Scale-Out Acceleration for Machine Learning. (Georgia Tech, UCSD) [[paper](https://www.cc.gatech.edu/~hadi/doc/paper/2017-micro-cosmic.pdf)]
+- DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission. (Univ. of Michigan, Univ. of Nevada) [[paper](http://cccp.eecs.umich.edu/papers/parkerhh-micro17.pdf)]
+- Data Movement Aware Computation Partitioning. (PSU, TOBB University of Economics and Technology) [[paper](http://xzt102.github.io/publications/2017_MICRO_Xulong.pdf)]
   - *Partition computation on a manycore system for near data processing.*
 
 --------------------------------------
