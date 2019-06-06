@@ -306,10 +306,10 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Chameleon: Versatile and Practical Near-DRAM Acceleration Architecture for Large Memory Systems. (UIUC, Seoul National University)
 
 ##### 2016 FPL
-- **A High Performance FPGA-based Accelerator for Large-Scale Convolutional Neural Network.** (Fudan University)
-- **Overcoming Resource Underutilization in Spatial CNN Accelerators.** (Stony Brook University)
+- **A High Performance FPGA-based Accelerator for Large-Scale Convolutional Neural Network.** (Fudan University) [[paper](A High Performance FPGA-based Accelerator for Large-Scale Convolutional Neural Network)]
+- **Overcoming Resource Underutilization in Spatial CNN Accelerators.** (Stony Brook University) [[ppt](https://slideplayer.com/slide/13810788/)]
   - *Build multiple accelerators, each specialized for specific CNN layers, instead of a single accelerator with uniform tiling parameters.*
-- **Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC.** (Intel)
+- **Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC.** (Intel) [[paper](https://jaewoong.org/pubs/fpl16-accelerating-rnn.pdf)]
 
 ##### 2016 HPCA
 - **A Performance Analysis Framework for Optimizing OpenCL Applications on FPGAs.** (Nanyang Technological University, HKUST, Cornell University)
