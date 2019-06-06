@@ -382,12 +382,12 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **Deep^3: Leveraging Three Levels of Parallelism for Efficient Deep Learning.** (UCSD, Rice)
 - **Real-Time meets Approximate Computing: An Elastic Deep Learning Accelerator Design with Adaptive Trade-off between QoS and QoR.** (CAS)
   - *I'm not sure whether the proposed tuning scenario and direction are reasonable enough to find out feasible solutions.*
-- **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.** (PKU, CUHK, SenseTime)
-- **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.** (Brown University)
+- **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.** (PKU, CUHK, SenseTime) [[papers](http://ceca.pku.edu.cn/media/lw/9b2b54e7fbe742e085ca6c1ae1502791.pdf)]
+- **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.** (Brown University) [[papers](https://arxiv.org/pdf/1705.04288.pdf)]
 - **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (KAIST)
-- **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.** (Georgia Tech)
+- **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.** (Georgia Tech) [[papers](https://hal.archives-ouvertes.fr/hal-01713150/file/Tuyen_paper2.pdf)]
 - **New Stochastic Computing Multiplier and Its Application to Deep Neural Networks.** (UNIST)
-- **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.** (THU, UCSB)
+- **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.** (THU, UCSB) [[papers](https://seal.ece.ucsb.edu/sites/default/files/publications/a26-cheng.pdf)]
 - **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.** (THU, Duke)
 - **Automating the systolic array generation and optimizations for high throughput convolution neural network.** (PKU, UCLA, Falcon)
 - **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.** (Purdue)
