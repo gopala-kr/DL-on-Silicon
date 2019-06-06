@@ -387,15 +387,15 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (KAIST)
 - **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.** (Georgia Tech) [[papers](https://hal.archives-ouvertes.fr/hal-01713150/file/Tuyen_paper2.pdf)]
 - **New Stochastic Computing Multiplier and Its Application to Deep Neural Networks.** (UNIST)
-- **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.** (THU, UCSB) [[papers](https://seal.ece.ucsb.edu/sites/default/files/publications/a26-cheng.pdf)]
-- **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.** (THU, Duke)
-- **Automating the systolic array generation and optimizations for high throughput convolution neural network.** (PKU, UCLA, Falcon)
-- **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.** (Purdue)
+- **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.** (THU, UCSB) [[paper](https://seal.ece.ucsb.edu/sites/default/files/publications/a26-cheng.pdf)]
+- **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.** (THU, Duke) [[paper](http://nics-efc.org/media/publications/2017/DAC17_217.pdf)]
+- **Automating the systolic array generation and optimizations for high throughput convolution neural network.** (PKU, UCLA, Falcon) [[paper](https://pdfs.semanticscholar.org/4009/ccfe101c69c926b2223e0378f6545cb2226f.pdf)]
+- **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.** (Purdue) [[paper](https://ieeexplore.ieee.org/document/8060357)]
   - *Synergistically tunes componet-level approximation knobs to achieve system-level energy-accuracy tradeoffs.*
 - **Error Propagation Aware Timing Relaxation For Approximate Near Threshold Computing.** (KIT)
 - RESPARC: A Reconfigurable and Energy-Efficient Architecture with Memristive Crossbars for Deep Spiking Neural Networks. (Purdue)
 - Rescuing Memristor-based Neuromorphic Design with High Defects. (University of Pittsburgh, HP Lab, Duke)
-- Group Scissor: Scaling Neuromorphic Computing Design to Big Neural Networks. (University of Pittsburgh, Duke)
+- Group Scissor: Scaling Neuromorphic Computing Design to Big Neural Networks. (University of Pittsburgh, Duke) [[paper](https://arxiv.org/pdf/1702.03443.pdf)]
 - Towards Aging-induced Approximations. (KIT, UT Austin)
 - SABER: Selection of Approximate Bits for the Design of Error Tolerant Circuits. (University of Minnesota, TAMU)
 - On Quality Trade-off Control for Approximate Computing using Iterative Training. (SJTU, CUHK)
