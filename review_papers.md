@@ -317,17 +317,17 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning. (University of Rochester)
 
 ##### 2017 FPGA
-- **An OpenCL Deep Learning Accelerator on Arria 10.** (Intel)
+- **An OpenCL Deep Learning Accelerator on Arria 10.** (Intel) [[paper](https://arxiv.org/pdf/1701.03534.pdf)]
   - *Minimum bandwidth requirement: All the intermediate data in AlexNet's CONV layers are cached in the on-chip buffer, so their architecture is compute-bound.*
   - *Reduced operations: Winograd transformation.*
   - *High usage of the available DSPs+Reduced computation -> Higher performance on FPGA -> Competitive efficiency vs. TitanX.*
-- **ESE: Efficient Speech Recognition Engine for Compressed LSTM on FPGA.** (Stanford University, DeepPhi, Tsinghua University, NVIDIA)
-- **FINN: A Framework for Fast, Scalable Binarized Neural Network Inference.** (Xilinx, Norwegian University of Science and Technology, University of Sydney)
-- **Can FPGA Beat GPUs in Accelerating Next-Generation Deep Neural Networks?** (Intel)
-- **Accelerating Binarized Convolutional Neural Networks with Software-Programmable FPGAs.** (Cornell University, UCLA, UCSD)
-- **Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network.** (UW-Madison)
-- **Frequency Domain Acceleration of Convolutional Neural Networks on CPU-FPGA Shared Memory System.** (USC)
-- **Optimizing Loop Operation and Dataflow in FPGA Acceleration of Deep Convolutional Neural Networks.** (Arizona State University)
+- **ESE: Efficient Speech Recognition Engine for Compressed LSTM on FPGA.** (Stanford University, DeepPhi, Tsinghua University, NVIDIA) [[paper](https://arxiv.org/pdf/1612.00694.pdf)]
+- **FINN: A Framework for Fast, Scalable Binarized Neural Network Inference.** (Xilinx, Norwegian University of Science and Technology, University of Sydney) [[paper](https://arxiv.org/pdf/1612.07119.pdf)]
+- **Can FPGA Beat GPUs in Accelerating Next-Generation Deep Neural Networks?** (Intel) [[paper](https://jaewoong.org/pubs/fpga17-next-generation-dnns.pdf)]
+- **Accelerating Binarized Convolutional Neural Networks with Software-Programmable FPGAs.** (Cornell University, UCLA, UCSD) [[paper](https://www.csl.cornell.edu/~zhiruz/pdfs/bnn-fpga2017.pdf)]
+- **Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network.** (UW-Madison) [[paper](http://homepages.cae.wisc.edu/~jialiang/papers/JZhang_FPGA17_CNN.pdf)]
+- **Frequency Domain Acceleration of Convolutional Neural Networks on CPU-FPGA Shared Memory System.** (USC) [[paper](http://www-scf.usc.edu/~zhan527/publication/cnn_accelerator/)]
+- **Optimizing Loop Operation and Dataflow in FPGA Acceleration of Deep Convolutional Neural Networks.** (Arizona State University) [[paper](http://www.isfpga.org/fpga2017/slides/D1_S1_04.pdf)]
 
 
 ##### 2017 ISSCC
