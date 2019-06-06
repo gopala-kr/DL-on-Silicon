@@ -306,7 +306,7 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Chameleon: Versatile and Practical Near-DRAM Acceleration Architecture for Large Memory Systems. (UIUC, Seoul National University)
 
 ##### 2016 FPL
-- **A High Performance FPGA-based Accelerator for Large-Scale Convolutional Neural Network.** (Fudan University) [[paper](A High Performance FPGA-based Accelerator for Large-Scale Convolutional Neural Network)]
+- **A High Performance FPGA-based Accelerator for Large-Scale Convolutional Neural Network.** (Fudan University) [[paper](https://ieeexplore.ieee.org/document/8367329)]
 - **Overcoming Resource Underutilization in Spatial CNN Accelerators.** (Stony Brook University) [[ppt](https://slideplayer.com/slide/13810788/)]
   - *Build multiple accelerators, each specialized for specific CNN layers, instead of a single accelerator with uniform tiling parameters.*
 - **Accelerating Recurrent Neural Networks in Analytics Servers: Comparison of FPGA, CPU, GPU, and ASIC.** (Intel) [[paper](https://jaewoong.org/pubs/fpl16-accelerating-rnn.pdf)]
@@ -340,20 +340,20 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - A 0.62mW Ultra-Low-Power Convolutional-Neural-Network Face Recognition Processor and a CIS Integrated with Always-On Haar-Like Face Detector. (KAIST)
 
 ##### 2017 HPCA
-- **FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks.** (Chinese Academy of Sciences)
-- **PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning.** (University of Pittsburgh, University of Southern California)
-- Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures. (University of Florida)
+- **FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks.** (Chinese Academy of Sciences) [[paper](http://www.carch.ac.cn/~yan/download/LuW_HPCA_2017.pdf)]
+- **PipeLayer: A Pipelined ReRAM-Based Accelerator for Deep Learning.** (University of Pittsburgh, University of Southern California) [[paper](http://alchem.usc.edu/portal/static/download/nn_memristor.pdf)]
+- Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures. (University of Florida) [[paper](https://mingcong.github.io/static/papers/P-CNN.pdf)]
   - *Satisfaction of CNN (SoC) is the combination of SoCtime, SoCaccuracy and energy consumption.*
   - *The P-CNN framework is composed of offline compilation and run-time management.*
     - *Offline compilation: Generally optimizes runtime, and generates scheduling configurations for the run-time stage.*
     - *Run-time management: Generates tuning tables through accuracy tuning, and calibrate accuracy+runtime (select the best tuning table) during the long-term execution.*
-- Supporting Address Translation for Accelerator-Centric Architectures. (UCLA)
+- Supporting Address Translation for Accelerator-Centric Architectures. (UCLA) [[paper](http://web.cs.ucla.edu/~haoyc/pdf/hpca17.pdf)]
 
 ##### 2017 ASPLOS
-- **Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University)
+- **Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory.** (Stanford University) [[paper](https://web.stanford.edu/~kozyraki/publications/2017.tetris.asplos.pdf)]
   - *Move accumulation operations close to the DRAM banks.*
   - *Develop a hybrid partitioning scheme that parallelizes the NN computations over multiple accelerators.*
-- SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing. (Syracuse University, USC, The City College of New York)
+- SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing. (Syracuse University, USC, The City College of New York) [[paper](http://alchem.usc.edu/portal/static/download/sc_dcnn.pdf)]
 
 ##### 2017 ISCA
 - **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** (Stony Brook University) [[paper](http://compas.cs.stonybrook.edu/~mferdman/downloads.php/ISCA17_Maximizing_CNN_Accelerator_Efficiency_Through_Resource_Partitioning.pdf)]
