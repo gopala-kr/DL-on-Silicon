@@ -287,23 +287,23 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
   - *Develop a macro dataflow ISA for DNN accelerators.*
   - *Develop hand-optimized template designs that are scalable and highly customizable.*
   - *Provide a Template Resource Optimization search algorithm to co-optimize the accelerator architecture and scheduling.*
-- **vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design.** (NVIDIA)
-- **Stripes: Bit-Serial Deep Neural Network Computing.** (University of Toronto, University of British Columbia)
+- **vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design.** (NVIDIA) [[Paper](https://arxiv.org/pdf/1602.08124.pdf)]
+- **Stripes: Bit-Serial Deep Neural Network Computing.** (University of Toronto, University of British Columbia) [[Paper](https://www.ece.ubc.ca/~aamodt/publications/papers/stripes-final.pdf)]
   - *Introduce serial computation and reduced precision computation to neural network accelerator designs, enabling accuracy vs. performance trade-offs.*
   - *Design a bit-serial computing unit to enable linear scaling the performance with precision reduction.*
 - **Cambricon-X: An Accelerator for Sparse Neural Networks.** (Chinese Academy of Sciences)
-- **NEUTRAMS: Neural Network Transformation and Co-design under Neuromorphic Hardware Constraints.** (Tsinghua University, UCSB)
+- **NEUTRAMS: Neural Network Transformation and Co-design under Neuromorphic Hardware Constraints.** (Tsinghua University, UCSB) [[Paper](http://pacman.cs.tsinghua.edu.cn/~cwg/papers_cwg/micro16.pdf)]
 - **Fused-Layer CNN Accelerators.** (Stony Brook University)
   - *Fuse multiple CNN layers (CONV+POOL) to reduce DRAM access for input/output data.*
-- **Bridging the I/O Performance Gap for Big Data Workloads: A New NVDIMM-based Approach.** (The Hong Kong Polytechnic University, NSF/University of Florida)
+- **Bridging the I/O Performance Gap for Big Data Workloads: A New NVDIMM-based Approach.** (The Hong Kong Polytechnic University, NSF/University of Florida) [[Paper](https://courses.engr.illinois.edu/ece598ms/sp2018/papers/paper123.pdf)]
 - **A Patch Memory System For Image Processing and Computer Vision.** (NVIDIA)
-- **An Ultra Low-Power Hardware Accelerator for Automatic Speech Recognition.** (Universitat Politecnica de Catalunya)
-- Perceptron Learning for Reuse Prediction. (TAMU, Intel Labs)
+- **An Ultra Low-Power Hardware Accelerator for Automatic Speech Recognition.** (Universitat Politecnica de Catalunya) [[Paper](https://personals.ac.upc.edu/jarnau/micro2016.pdf)]
+- Perceptron Learning for Reuse Prediction. (TAMU, Intel Labs) [[Paper](http://hpca23.cse.tamu.edu/pdfs/micro2016-perceptron.pdf)]
   - *Train neural networks to predict reuse of cache blocks.*
-- A Cloud-Scale Acceleration Architecture. (Microsoft Research)
-- Reducing Data Movement Energy via Online Data Clustering and Encoding. (University of Rochester)
-- The Microarchitecture of a Real-time Robot Motion Planning Accelerator. (Duke University)
-- Chameleon: Versatile and Practical Near-DRAM Acceleration Architecture for Large Memory Systems. (UIUC, Seoul National University)
+- A Cloud-Scale Acceleration Architecture. (Microsoft Research) [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Cloud-Scale-Acceleration-Architecture.pdf)]
+- Reducing Data Movement Energy via Online Data Clustering and Encoding. (University of Rochester) [[Paper](http://www.cs.rochester.edu/~ipek/micro16.pdf)]
+- The Microarchitecture of a Real-time Robot Motion Planning Accelerator. (Duke University) [[Paper](http://cs.brown.edu/people/gdk/pubs/plan_chip_micro.pdf)]
+- Chameleon: Versatile and Practical Near-DRAM Acceleration Architecture for Large Memory Systems. (UIUC, Seoul National University) [[Paper](https://cse.snu.ac.kr/en/node/24527)]
 
 ##### 2016 FPL
 - **A High Performance FPGA-based Accelerator for Large-Scale Convolutional Neural Network.** (Fudan University) [[paper](https://ieeexplore.ieee.org/document/8367329)]
