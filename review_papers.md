@@ -242,14 +242,14 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
  - Cambricon: An Instruction Set Architecture for Neural Networks. (Chinese Academy of Sciences, UCSB)
 
 ##### 2016 DATE
-- **The Neuro Vector Engine: Flexibility to Improve Convolutional Network Efficiency for Wearable Vision.** (Eindhoven University of Technology, Soochow University, TU Berlin)
+- **The Neuro Vector Engine: Flexibility to Improve Convolutional Network Efficiency for Wearable Vision.** (Eindhoven University of Technology, Soochow University, TU Berlin) [[pdf](http://parse.ele.tue.nl/system/attachments/100/original/MPeemen01.pdf)]
   - *Propose an SIMD accelerator for CNN.*
 - **Efficient FPGA Acceleration of Convolutional Neural Networks Using Logical-3D Compute Array.** (UNIST, Seoul National University)
   - *The compute tile is organized on 3 dimensions: Tm, Tr, Tc.*
 - NEURODSP: A Multi-Purpose Energy-Optimized Accelerator for Neural Networks. (CEA LIST)
-- MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing System. (Tsinghua University, UCSB, Arizona State University)
-- Accelerated Artificial Neural Networks on FPGA for Fault Detection in Automotive Systems. (Nanyang Technological University, University of Warwick)
-- Significance Driven Hybrid 8T-6T SRAM for Energy-Efficient Synaptic Storage in Artificial Neural Networks. (Purdue University)
+- MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing System. (Tsinghua University, UCSB, Arizona State University) [[pdf](https://pdfs.semanticscholar.org/0a6f/27badea6623c7a07d6cdb0816703133a9883.pdf)]
+- Accelerated Artificial Neural Networks on FPGA for Fault Detection in Automotive Systems. (Nanyang Technological University, University of Warwick) [[pdf](https://warwick.ac.uk/fac/sci/eng/staff/saf/papers/date2016-shreejith.pdf)]
+- Significance Driven Hybrid 8T-6T SRAM for Energy-Efficient Synaptic Storage in Artificial Neural Networks. (Purdue University) [[pdf](https://arxiv.org/pdf/1602.08556.pdf)]
 
 ##### 2016 FPGA
 - **Going Deeper with Embedded FPGA Platform for Convolutional Neural Network.** \[[Slides](http://www.isfpga.org/fpga2016/index_files/Slides/1_2.pdf)\]\[[Demo](http://www.isfpga.org/fpga2016/index_files/Slides/1_2_demo.m4v)\] (Tsinghua University, MSRA)
@@ -261,10 +261,10 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
   - *Spatially allocate FPGA's resources to CONV/POOL/NORM/FC layers.*
 
 ##### 2016 ASPDAC
-- **Design Space Exploration of FPGA-Based Deep Convolutional Neural Networks.** (UC Davis)
-- **LRADNN: High-Throughput and Energy-Efficient Deep Neural Network Accelerator using Low Rank Approximation.** (Hong Kong University of Science and Technology, Shanghai Jiao Tong University)
+- **Design Space Exploration of FPGA-Based Deep Convolutional Neural Networks.** (UC Davis) [[paper](https://www.ece.ucdavis.edu/~soheil/publications/conference/DCNN_16.pdf)]
+- **LRADNN: High-Throughput and Energy-Efficient Deep Neural Network Accelerator using Low Rank Approximation.** (Hong Kong University of Science and Technology, Shanghai Jiao Tong University) [[paper](http://www.aspdac.com/aspdac2016/technical_program/pdf/6B-4.pdf)]
 - **Efficient Embedded Learning for IoT Devices.** (Purdue University)
-- ACR: Enabling Computation Reuse for Approximate Computing. (Chinese Academy of Sciences)
+- ACR: Enabling Computation Reuse for Approximate Computing. (Chinese Academy of Sciences) [[paper](http://www.carch.ac.cn/~adapt/download/ACR-ASP-DAC-2016.pdf)]
 
 ##### 2016 VLSI
 - **A 0.3‐2.6 TOPS/W Precision‐Scalable Processor for Real‐Time Large‐Scale ConvNets.** (KU Leuven)
