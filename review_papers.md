@@ -313,8 +313,8 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 
 ##### 2016 HPCA
 - **A Performance Analysis Framework for Optimizing OpenCL Applications on FPGAs.** (Nanyang Technological University, HKUST, Cornell University)
-- **TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning.** (Georgia Institute of Technology)
-- Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning. (University of Rochester)
+- **TABLA: A Unified Template-based Architecture for Accelerating Statistical Machine Learning.** (Georgia Institute of Technology) [[paper](http://www.eecs.umich.edu/courses/eecs573/slides/60_TABLA.pdf)]
+- Memristive Boltzmann Machine: A Hardware Accelerator for Combinatorial Optimization and Deep Learning. (University of Rochester) [[paper](http://www.cs.rochester.edu/~ipek/hpca16.pdf)]
 
 ##### 2017 FPGA
 - **An OpenCL Deep Learning Accelerator on Arria 10.** (Intel) [[paper](https://arxiv.org/pdf/1701.03534.pdf)]
