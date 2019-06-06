@@ -183,23 +183,23 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 -------------
 
 ##### 2014 ASPLOS
-- **DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.** (CAS, Inria)
+- **DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning.** (CAS, Inria) [[paper](http://novel.ict.ac.cn/ychen/pdf/DianNao.pdf)]
 
 ##### 2014 MICRO
-- **DaDianNao: A Machine-Learning Supercomputer.** (CAS, Inria, Inner Mongolia University)
+- **DaDianNao: A Machine-Learning Supercomputer.** (CAS, Inria, Inner Mongolia University) [[paper](http://novel.ict.ac.cn/ychen/pdf/DaDianNao.pdf)]
 
 ##### 2015 ISCA
-- **ShiDianNao: Shifting Vision Processing Closer to the Sensor.** (CAS, EPFL, Inria)
+- **ShiDianNao: Shifting Vision Processing Closer to the Sensor.** (CAS, EPFL, Inria) [[paper](https://lap.epfl.ch/wp-content/uploads/2018/05/DuJun15_ShiDianNaoShiftingVisionProcessingCloserToTheSensor_ISCA15.pdf)]
 
 ##### 2015 ASPLOS
 - **PuDianNao: A Polyvalent Machine Learning Accelerator.** (CAS, USTC, Inria)
 
 ##### 2015 FPGA
-- **Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks.** (Peking University, UCLA)
+- **Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks.** (Peking University, UCLA) [[paper](http://cadlab.cs.ucla.edu/~cong/slides/fpga2015_chen.pdf)]
 
 ##### 2015 DAC
 - Reno: A Highly-Efficient Reconfigurable Neuromorphic Computing Accelerator Design. (Universtiy of Pittsburgh, Tsinghua University, San Francisco State University, Air Force Research Laboratory, University of Massachusetts.)
-- Scalable Effort Classifiers for Energy Efficient Machine Learning. (Purdue University, Microsoft Research)
+- Scalable Effort Classifiers for Energy Efficient Machine Learning. (Purdue University, Microsoft Research) [[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/06/Shoaib_DAC_2015.pdf)]
 - Design Methodology for Operating in Near-Threshold Computing (NTC) Region. (AMD)
 - Opportunistic Turbo Execution in NTC: Exploiting the Paradigm Shift in Performance Bottlenecks. (Utah State University)
 
@@ -208,14 +208,14 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
   - *Hardware generator: Basic buliding blocks for neural networks, and address generation unit (RTL).*
   - *Compiler: Dynamic control flow (configurations for different models), and data layout in memory.*
   - *Simply report their framework and describe some stages.*
-- **C-Brain: A Deep Learning Accelerator that Tames the Diversity of CNNs through Adaptive Data-Level Parallelization.** (Chinese Academy of Sciences)
+- **C-Brain: A Deep Learning Accelerator that Tames the Diversity of CNNs through Adaptive Data-Level Parallelization.** (Chinese Academy of Sciences) [[paper](http://matsu-www.is.titech.ac.jp/lecture/lecture-wiki/index.php?plugin=attach&refer=hpc2017&openfile=C-Brain%20presentation.pdf)]
 - **Simplifying Deep Neural Networks for Neuromorphic Architectures.** (Incheon National University)
 - **Dynamic Energy-Accuracy Trade-off Using Stochastic Computing in Deep Neural Networks.** (Samsung, Seoul National University, Ulsan National Institute of Science and Technology)
-- **Optimal Design of JPEG Hardware under the Approximate Computing Paradigm.** (University of Minnesota, TAMU)
-- Perform-ML: Performance Optimized Machine Learning by Platform and Content Aware Customization. (Rice University, UCSD)
+- **Optimal Design of JPEG Hardware under the Approximate Computing Paradigm.** (University of Minnesota, TAMU) [[paper](http://people.ece.umn.edu/~luo../sachin/conf/dac16fss.pdf)]
+- Perform-ML: Performance Optimized Machine Learning by Platform and Content Aware Customization. (Rice University, UCSD) [[paper](http://azaliamirhoseini.com/papers/perform-ml.pdf)]
 - Low-Power Approximate Convolution Computing Unit with Domain-Wall Motion Based “Spin-Memristor” for Image Processing Applications. (Purdue University)
 - Cross-Layer Approximations for Neuromorphic Computing: From Devices to Circuits and Systems. (Purdue University)
-- Switched by Input: Power Efficient Structure for RRAM-based Convolutional Neural Network. (Tsinghua University)
+- Switched by Input: Power Efficient Structure for RRAM-based Convolutional Neural Network. (Tsinghua University) [[paper](https://pdfs.semanticscholar.org/f1ef/7c146eb50cbfa15f753572ac8e8e61036e64.pdf)]
 - A 2.2 GHz SRAM with High Temperature Variation Immunity for Deep Learning Application under 28nm. (UCLA, Bell Labs)
 
 ##### 2016 ISSCC
