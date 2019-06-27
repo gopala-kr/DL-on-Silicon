@@ -3,7 +3,7 @@
 
 
         
-
+-------------------
 
 
 - [AI-accelerators(CPU, GPU, FPGA, ASIC, SoC, HPC), Neuromorphic and Quantum Compute for AI](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/01-ai-accelerators)
@@ -15,11 +15,5 @@
 - [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
 - [Review Papers](https://github.com/gopala-kr/DL-on-Silicon/blob/master/review_papers.md)
 
-------------
 
-
-_**Maintainer**_
-
-Gopala KR /@gopala-kr
-
-------------
+----------------------
