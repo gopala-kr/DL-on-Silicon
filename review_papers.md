@@ -18,6 +18,75 @@
 - [HPCA 2019](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=76103)
 - [isscc](http://isscc.org/)
 
+------------------------------
+
+- [MyCaffe: A Complete C# Re-Write of Caffe with Reinforcement Learning](https://arxiv.org/ftp/arxiv/papers/1810/1810.02272.pdf)
+- [Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions](https://arxiv.org/abs/1802.04730)
+- [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
+- [Toolflows for Mapping Convolutional Neural Networks on FPGAs:
+A Survey and Future Directions](https://arxiv.org/pdf/1803.05900v1.pdf)
+- [The implementation of a Deep Recurrent Neural
+Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710/1710.10296.pdf)
+- [Automatic Full Compilation of Julia Programs and ML Models to Cloud TPUs](https://arxiv.org/pdf/1810.09868v1.pdf)
+- [Facebook: Hardware & Software Systems research](https://research.fb.com/announcing-the-winners-of-the-facebook-hardware-software-systems-research-awards/)
+- [Intel AI: high-throughput-object-detection-on-edge-platforms-with-fpga](https://ai.intel.com/high-throughput-object-detection-on-edge-platforms-with-fpga/)
+- [Intel AI: adaptable-deep-learning-solutions-with-ngraph-compiler-and-onnx](https://ai.intel.com/adaptable-deep-learning-solutions-with-ngraph-compiler-and-onnx/)
+- [Intel AI: intel-fpgas-powering-real-time-ai-inferencing](https://ai.intel.com/intel-fpgas-powering-real-time-ai-inferencing/)
+- [Intel AI: heterogenous-computing-ai-hardware-designed-for-specific-tasks ](https://ai.intel.com/heterogenous-computing-ai-hardware-designed-for-specific-tasks/)
+- [Intel AI Academy: Framework Optimization Training](https://software.intel.com/en-us/ai-academy/frameworks)
+- [Intel® Optimization for TensorFlow*](https://software.intel.com/en-us/videos/introduction-to-intel-optimization-for-tensorflow)
+- [Intel AI Docs](https://ai.intel.com/docs/) 
+- [CUDA](https://github.com/Erkaman/Awesome-CUDA) - useful libraries and resources for CUDA development
+- [IBM AI: Hardware and the Physics of AI](https://www.research.ibm.com/artificial-intelligence/physics-of-ai/)
+- [DyNet: The Dynamic Neural Network Toolkit](https://arxiv.org/pdf/1701.03980.pdf)
+- [Deep Learning with Dynamic Computation Graphs](https://arxiv.org/pdf/1702.02181.pdf)
+- [Mesh-TensorFlow: Deep Learning for Supercomputers](https://arxiv.org/pdf/1811.02084v1.pdf)
+- [AI Benchmark: Running Deep Neural Networks
+on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
+- [Apple: Democratizing Production-Scale Distributed Deep Learning](https://arxiv.org/pdf/1811.00143v1.pdf)
+- [Communication Primitives in Deep Learning Frameworks](https://medium.com/south-park-commons/communication-primitives-in-deep-learning-frameworks-7faefb2f3f63)
+- [Comparing Deep Learning Frameworks: A Rosetta Stone Approach](https://blogs.technet.microsoft.com/machinelearning/2018/03/14/comparing-deep-learning-frameworks-a-rosetta-stone-approach/)
+- [CodeX: Bit-Flexible Encoding for Streaming-based FPGA Acceleration of DNNs](https://arxiv.org/abs/1901.05582v1)
+- [EcoRNN: Efficient Computing of LSTM RNN Training on GPUs](https://arxiv.org/abs/1805.08899v4)
+- [Training for 'Unstable' CNN Accelerator:A Case Study on FPGA](https://arxiv.org/abs/1812.01689v1)
+- [Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers](https://arxiv.org/abs/1902.01474v1)
+- [Software-Defined FPGA Accelerator Design for Mobile Deep Learning Applications](https://arxiv.org/abs/1902.03192v1)
+- [Systimator: A Design Space Exploration Methodology for Systolic Array based CNNs Acceleration on the FPGA-based Edge Nodes](https://arxiv.org/abs/1901.04986v2)
+- [TensorSCONE: A Secure TensorFlow Framework using Intel SGX](https://arxiv.org/abs/1902.04413v1)
+- [Quantum Entanglement in Deep Learning Architectures](https://arxiv.org/abs/1803.09780v3)
+- [Lingvo: a Modular and Scalable Framework for Sequence-to-Sequence Modeling](https://arxiv.org/abs/1902.08295v1)
+- [Hyperdrive: A Multi-Chip Systolically Scalable Binary-Weight CNN Inference Engine](https://arxiv.org/abs/1804.00623v3)
+- [High-Throughput CNN Inference on Embedded ARM big.LITTLE Multi-Core Processors](https://arxiv.org/abs/1903.05898v1)
+- [Improving Transparency of Deep Neural Inference Process](https://arxiv.org/abs/1903.05501v1)
+- [Neuromorphic Hardware learns to learn](https://arxiv.org/abs/1903.06493v1)
+- [FixyNN: Efficient Hardware for Mobile Computer Vision via Transfer Learning](https://arxiv.org/abs/1902.11128v1)
+- [Extracting Success from IBM's 20-Qubit Machines Using Error-Aware Compilation](https://arxiv.org/abs/1903.10963v1)
+- [Multi-Level Intermediate Representation" Compiler Infrastructure](https://github.com/tensorflow/mlir)
+- [TensorFlow Lite Now Faster with Mobile GPUs (Developer Preview)](https://medium.com/tensorflow/tensorflow-lite-now-faster-with-mobile-gpus-developer-preview-e15797e6dee7)
+- [Open-sourcing PyTorch-BigGraph for faster embeddings of extremely large graphs](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs/)
+- [Accelerated Neural Networks on OpenCL Devices Using SYCL-DNN](https://arxiv.org/abs/1904.04174v1)
+- [DARPA, NSF Seek Real-Time ML Processor](https://www.hpcwire.com/2019/03/18/darpa-nsf-seek-real-time-ml-processor/)
+- [unlocking-dl-performance-with-ngraph](https://www.intel.ai/unlocking-dl-performance-with-ngraph/#gs.72u424)
+- [Deep Learning in Mobile and Wireless Networking: A Survey](https://arxiv.org/pdf/1803.04311v3.pdf)
+- [Meta Filter Pruning to Accelerate Deep Convolutional Neural Networks](https://arxiv.org/abs/1904.03961v1)
+- [alibaba/ai-matrix](https://github.com/alibaba/ai-matrix) - To make it easy to benchmark AI accelerators
+- [facebookresearch/deepfloat](https://github.com/facebookresearch/deepfloat) - An exploration of log domain "alternative floating point" for hardware ML/AI accelerators.
+- [Stanford: Hardware Accelerators for Machine Learning (CS 217)](https://cs217.stanford.edu/)
+- [https://github.com/pytorch/glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators
+- [MorphIC: A 65-nm 738k-Synapse/mm2 Quad-Core Binary-Weight Digital Neuromorphic Processor with Stochastic Spike-Driven Online Learning](https://arxiv.org/abs/1904.08513v1)
+- [NeuroPod: a real-time neuromorphic spiking CPG applied to robotics](https://arxiv.org/abs/1904.11243v1)
+- [NengoDL: Combining deep learning and neuromorphic modelling methods](https://arxiv.org/abs/1805.11144v3)
+- [Dynamic Power Management for Neuromorphic Many-Core Systems](https://arxiv.org/abs/1903.08941v1)
+- [Programming multi-level quantum gates in disordered computing reservoirs via machine learning](https://arxiv.org/abs/1905.05264v2)
+- [Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/abs/1806.11463v3)
+- [Defining Quantum Neural Networks via Quantum Time Evolution](https://arxiv.org/abs/1905.10912v1)
+- [Full-stack Optimization for Accelerating CNNs with FPGA Validation](https://arxiv.org/abs/1905.00462v1)
+- [OpenCL-based FPGA accelerator for disparity map generation with stereoscopic event cameras](https://arxiv.org/abs/1903.03509v1)
+- [Energy-Efficient Inference Accelerator for Memory-Augmented Neural Networks on an FPGA](https://arxiv.org/abs/1805.07978v2)
+- [Accelerator-Aware Pruning for Convolutional Neural Networks](https://arxiv.org/abs/1804.09862v2)
+- [RAPIDNN: In-Memory Deep Neural Network Acceleration Framework](https://arxiv.org/abs/1806.05794v4)
+- [Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation](https://arxiv.org/abs/1905.12799v1)
+
 --------------
 
 - [A Survey of FPGA Based Deep Learning
