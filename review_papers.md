@@ -87,6 +87,7 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [RAPIDNN: In-Memory Deep Neural Network Acceleration Framework](https://arxiv.org/abs/1806.05794v4)
 - [Reinforcement Learning and Adaptive Sampling for Optimized DNN Compilation](https://arxiv.org/abs/1905.12799v1)
 - [Defining Quantum Neural Networks via Quantum Time Evolution](https://arxiv.org/abs/1905.10912v1)
+- [Programming multi-level quantum gates in disordered computing reservoirs via machine learning](https://arxiv.org/abs/1905.05264v2)
 
 --------------
 
