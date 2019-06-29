@@ -89,6 +89,8 @@ on Android Smartphones](https://arxiv.org/pdf/1810.01109v1.pdf)
 - [Defining Quantum Neural Networks via Quantum Time Evolution](https://arxiv.org/abs/1905.10912v1)
 - [Programming multi-level quantum gates in disordered computing reservoirs via machine learning](https://arxiv.org/abs/1905.05264v2)
 - [Image Processing in Quantum Computers](https://arxiv.org/abs/1812.11042v3)
+- [TF-Replicator: Distributed Machine Learning for Researchers](https://arxiv.org/abs/1902.00465v1)
+- [AdaNet: A Scalable and Flexible Framework for Automatically Learning Ensembles](https://arxiv.org/abs/1905.00080v1)
 
 --------------
 
