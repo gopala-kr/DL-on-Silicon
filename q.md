@@ -8,3 +8,4 @@ A Quantum Walks Approach to Optimization Problems](https://arxiv.org/pdf/2207.06
 - [Practical Verification of Quantum Properties in Quantum-Approximate-Optimization Runs](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.17.024026)
 - [Pyomo.GDP: an ecosystem for logic based modeling and optimization development](https://link.springer.com/article/10.1007/s11081-021-09601-7)
 - [Quantum algorithms with local particle-number conservation: Noise effects and error correction](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.042412)
+- [Simulations of state-of-the-art fermionic neural network wave functions with diffusion Monte Carlo](https://arxiv.org/pdf/2103.12570.pdf)
