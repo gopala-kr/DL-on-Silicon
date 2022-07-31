@@ -16,3 +16,4 @@ A Quantum Walks Approach to Optimization Problems](https://arxiv.org/pdf/2207.06
 - [Inter-generational comparison of quantum annealers in solving hard scheduling problems](https://arxiv.org/pdf/2112.00727.pdf)
 - [HybridQ: A Hybrid Simulator for Quantum Circuits](https://ieeexplore.ieee.org/abstract/document/9651384)
 - [Entanglement across separate silicon dies in a modular superconducting qubit device](https://www.nature.com/articles/s41534-021-00484-1)
+- [Quantum-accelerated constraint programming](https://quantum-journal.org/papers/q-2021-09-28-550/)
