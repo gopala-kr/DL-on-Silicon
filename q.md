@@ -13,3 +13,4 @@ A Quantum Walks Approach to Optimization Problems](https://arxiv.org/pdf/2207.06
 - [Real time evolution for ultracompact Hamiltonian eigenstates on quantum hardware](https://arxiv.org/pdf/2103.08563.pdf)
 - [Perils of Embedding for Quantum Sampling](https://arxiv.org/pdf/2103.07036.pdf)
 - [On the Representation of Boolean and Real Functions as Hamiltonians for Quantum Computing](https://dl.acm.org/doi/abs/10.1145/3478519)
+- [Inter-generational comparison of quantum annealers in solving hard scheduling problems](https://arxiv.org/pdf/2112.00727.pdf)
