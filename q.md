@@ -10,3 +10,4 @@ A Quantum Walks Approach to Optimization Problems](https://arxiv.org/pdf/2207.06
 - [Quantum algorithms with local particle-number conservation: Noise effects and error correction](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.042412)
 - [Simulations of state-of-the-art fermionic neural network wave functions with diffusion Monte Carlo](https://arxiv.org/pdf/2103.12570.pdf)
 - [Physics-Inspired Heuristics for Soft MIMO Detection in 5G New Radio and Beyond](https://arxiv.org/pdf/2103.10561.pdf)
+- [Real time evolution for ultracompact Hamiltonian eigenstates on quantum hardware](https://arxiv.org/pdf/2103.08563.pdf)
