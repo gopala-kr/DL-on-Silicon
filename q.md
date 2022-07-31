@@ -4,3 +4,4 @@ A Quantum Walks Approach to Optimization Problems](https://arxiv.org/pdf/2207.06
 - [Quantum technologies for climate change: Preliminary assessment](https://arxiv.org/pdf/2107.05362.pdf)
 - [Quantum Annealing for Large MIMO Downlink Vector Perturbation Precoding](https://ieeexplore.ieee.org/abstract/document/9500557)
 - [Optimizing quantum heuristics with meta-learning](https://link.springer.com/article/10.1007/s42484-020-00022-w)
+- [Ising Machines' Dynamics and Regularization for Near-Optimal Large and Massive MIMO Detection](https://arxiv.org/pdf/2105.10535.pdf)
